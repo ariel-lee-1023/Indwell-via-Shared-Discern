@@ -1,0 +1,106 @@
+{
+  "status": "pass",
+  "errors": [],
+  "profile": "existing-skill fold-in; natural Chinese headings and inherited examples/STE allowed",
+  "generic_shape_exemptions": [
+    "examples/ — the only subdirectory the generated skill may have is references/ (no chapters/, no per-book folders)",
+    "reference-alexander-dialogic.md is missing the `## Mental Model` section",
+    "reference-alexander-dialogic.md is missing the `## Frameworks & Structure` section",
+    "reference-alexander-dialogic.md is missing the `## Key Takeaways` section",
+    "reference-ambrose-learning.md is missing the `## Mental Model` section",
+    "reference-ambrose-learning.md is missing the `## Frameworks & Structure` section",
+    "reference-ambrose-learning.md is missing the `## Key Takeaways` section",
+    "reference-marton-booth-awareness.md is missing the `## Mental Model` section",
+    "reference-marton-booth-awareness.md is missing the `## Frameworks & Structure` section",
+    "reference-marton-booth-awareness.md is missing the `## Key Takeaways` section",
+    "reference-multimedia-handbook.md is missing the `## Mental Model` section",
+    "reference-multimedia-handbook.md is missing the `## Frameworks & Structure` section",
+    "reference-multimedia-handbook.md is missing the `## Key Takeaways` section",
+    "reference-van-merrienboer-complex.md is missing the `## Mental Model` section",
+    "reference-van-merrienboer-complex.md is missing the `## Frameworks & Structure` section",
+    "reference-van-merrienboer-complex.md is missing the `## Key Takeaways` section"
+  ],
+  "generic_warnings_preserved": [
+    "references/sources.md — unexpected file; the contract is reference-<slug>.md, and optionally topic-index.md",
+    "references/ste-and-chinese.md — unexpected file; the contract is reference-<slug>.md, and optionally topic-index.md",
+    "reference-alexander-dialogic.md has no `**Sections**: N` in its header line, so its Step 7 budget cannot be computed — only the 19,500 cap could be checked",
+    "reference-alexander-dialogic.md has no `## Decision Rules & Judgment` — expected unless the library was built in strict mode",
+    "reference-alexander-dialogic.md declares DEPTH=study but has no Worked Example — the single biggest reason a study-depth file earns its budget",
+    "reference-ambrose-learning.md has no `**Sections**: N` in its header line, so its Step 7 budget cannot be computed — only the 14,000 cap could be checked",
+    "reference-ambrose-learning.md has no `## Decision Rules & Judgment` — expected unless the library was built in strict mode",
+    "reference-ambrose-learning.md declares DEPTH=study but has no Worked Example — the single biggest reason a study-depth file earns its budget",
+    "reference-marton-booth-awareness.md has no `**Sections**: N` in its header line, so its Step 7 budget cannot be computed — only the 14,000 cap could be checked",
+    "reference-marton-booth-awareness.md has no `## Decision Rules & Judgment` — expected unless the library was built in strict mode",
+    "reference-marton-booth-awareness.md declares DEPTH=study but has no Worked Example — the single biggest reason a study-depth file earns its budget",
+    "reference-multimedia-handbook.md has no `**Sections**: N` in its header line, so its Step 7 budget cannot be computed — only the 19,500 cap could be checked",
+    "reference-multimedia-handbook.md has no `## Decision Rules & Judgment` — expected unless the library was built in strict mode",
+    "reference-multimedia-handbook.md declares DEPTH=study but has no Worked Example — the single biggest reason a study-depth file earns its budget",
+    "reference-van-merrienboer-complex.md has no `**Sections**: N` in its header line, so its Step 7 budget cannot be computed — only the 19,500 cap could be checked",
+    "reference-van-merrienboer-complex.md has no `## Decision Rules & Judgment` — expected unless the library was built in strict mode",
+    "reference-van-merrienboer-complex.md declares DEPTH=study but has no Worked Example — the single biggest reason a study-depth file earns its budget"
+  ],
+  "core_tokens_estimated": 2186,
+  "reference_budgets": {
+    "reference-alexander-dialogic.md": {
+      "sections": 9,
+      "tokens_estimated": 1641,
+      "type": "text",
+      "depth": "study",
+      "target": 7800,
+      "hard_cap": 14000
+    },
+    "reference-ambrose-learning.md": {
+      "sections": 7,
+      "tokens_estimated": 1741,
+      "type": "text",
+      "depth": "study",
+      "target": 7269,
+      "hard_cap": 14000
+    },
+    "reference-marton-booth-awareness.md": {
+      "sections": 8,
+      "tokens_estimated": 1575,
+      "type": "text",
+      "depth": "study",
+      "target": 7543,
+      "hard_cap": 14000
+    },
+    "reference-multimedia-handbook.md": {
+      "sections": 46,
+      "tokens_estimated": 3233,
+      "type": "text",
+      "depth": "study",
+      "target": 13473,
+      "hard_cap": 14000
+    },
+    "reference-van-merrienboer-complex.md": {
+      "sections": 16,
+      "tokens_estimated": 1703,
+      "type": "text",
+      "depth": "study",
+      "target": 9300,
+      "hard_cap": 14000
+    }
+  },
+  "not_tested": [
+    "independent model behavior",
+    "learning efficacy",
+    "host import",
+    "README Mermaid rendering"
+  ],
+  "runtime_hashes": {
+    "SKILL.md": "27081ceb7a831d945b69ba9f9fed7261da76c8ca57d1c4dabc5529edf536e6f3",
+    "references/reference-alexander-dialogic.md": "f937c85bfe458be879529f8b5057a48a344644c2608bb28cb9e73fb97e57c472",
+    "references/reference-ambrose-learning.md": "58c55cb3d5630efbcaa044a5249fcfc668e74a01f9008f2b8b5427bade561253",
+    "references/reference-marton-booth-awareness.md": "98f45cce1a5206954c931529763eb1d3fafbe36181829f658679345b6da137ff",
+    "references/reference-multimedia-handbook.md": "56a2b0faacc50d39bfc1f302bf03282dbfec133857fed6abe2de855e3f1aa500",
+    "references/reference-van-merrienboer-complex.md": "c300378f7600e7d7d5187b5e5d0506af011a742dc4596820713195b2a0f92d10",
+    "references/sources.md": "9390d129ca5b3f4116c2456433f4f21efa3ab7db63daaa3eeb064b71aeecec2f",
+    "references/ste-and-chinese.md": "0269bc389aba14ba280e57182e013b89641f9d8943c258ed13850a207d8ef728",
+    "examples/flow.svg": "e2ea08b682a1708b94e8f710aba38384704fe5d4d3ac1b720fb7113b4f5167b4",
+    "examples/parallel-demo.html": "19701e40779abd79959c2662d05af30cb1d396a2d0c7f4503fa63f4e43a985e0",
+    "examples/shared-discern.md": "abfd156edc10ee76338228f919581371bf52e3ca30c30dffc9420555d48a28d8",
+    "examples/source.md": "7d68389587c7b448195d36d7e12be015e2a3314e51cfcb74c3f9592790434599",
+    "examples/walkthrough.md": "ec748b5f15502c4494a07ba52a1c78e994137a370a0bcbf0cd444be191f275e2"
+  }
+}

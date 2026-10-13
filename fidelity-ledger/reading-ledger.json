@@ -1,0 +1,370 @@
+{
+  "sources": {
+    "awareness": {
+      "lines": 11380,
+      "path": "/Users/Extracurriculars/Knowledge/indwell-via-shared-discern/Learning-and-awareness-Marton-Ference-Booth-etc.md",
+      "output_budget": 7543
+    },
+    "dialogic": {
+      "lines": 3553,
+      "path": "/Users/Extracurriculars/Knowledge/indwell-via-shared-discern/A-Dialogic-Teaching-Companion-Robin-Alexander.md",
+      "output_budget": 7800
+    },
+    "learning": {
+      "lines": 3365,
+      "path": "/Users/Extracurriculars/Knowledge/indwell-via-shared-discern/How-Learning-Works-Seven-Research-Based-Principles-for-Smart-Teaching-Ambrose-Su.md",
+      "output_budget": 7269
+    }
+  },
+  "reads": [
+    {
+      "source": "awareness",
+      "start": 1820,
+      "end": 1900,
+      "tokens": 1470,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "awareness",
+      "start": 4175,
+      "end": 4265,
+      "tokens": 1484,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "awareness",
+      "start": 4780,
+      "end": 4850,
+      "tokens": 1312,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "awareness",
+      "start": 5510,
+      "end": 5585,
+      "tokens": 1349,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "awareness",
+      "start": 6320,
+      "end": 6370,
+      "tokens": 1016,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "awareness",
+      "start": 8180,
+      "end": 8255,
+      "tokens": 1323,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "awareness",
+      "start": 870,
+      "end": 930,
+      "tokens": 1069,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "awareness",
+      "start": 1370,
+      "end": 1440,
+      "tokens": 1274,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "awareness",
+      "start": 4380,
+      "end": 4450,
+      "tokens": 1307,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "awareness",
+      "start": 6160,
+      "end": 6235,
+      "tokens": 1366,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "awareness",
+      "start": 6915,
+      "end": 6990,
+      "tokens": 1411,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "awareness",
+      "start": 7800,
+      "end": 7860,
+      "tokens": 1118,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "awareness",
+      "start": 9240,
+      "end": 9310,
+      "tokens": 1194,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "awareness",
+      "start": 9840,
+      "end": 9910,
+      "tokens": 1183,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "dialogic",
+      "start": 1500,
+      "end": 1525,
+      "tokens": 856,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "dialogic",
+      "start": 1620,
+      "end": 1670,
+      "tokens": 2629,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "dialogic",
+      "start": 1690,
+      "end": 1735,
+      "tokens": 1560,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "dialogic",
+      "start": 1820,
+      "end": 1860,
+      "tokens": 1537,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "dialogic",
+      "start": 1990,
+      "end": 2030,
+      "tokens": 912,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "dialogic",
+      "start": 2090,
+      "end": 2120,
+      "tokens": 729,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "dialogic",
+      "start": 2640,
+      "end": 2670,
+      "tokens": 713,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "dialogic",
+      "start": 2808,
+      "end": 2830,
+      "tokens": 2164,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "dialogic",
+      "start": 1538,
+      "end": 1604,
+      "tokens": 3834,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "dialogic",
+      "start": 1860,
+      "end": 1948,
+      "tokens": 3997,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators",
+      "question": "前次批量显示可能截断或当前论点仍需核对：该段是否实际支持拟采用的区别与条件？",
+      "resolution": "复核以参考中的定位与coverage.md的限制为准；操作区间不作为逐行已读证明。"
+    },
+    {
+      "source": "dialogic",
+      "start": 1280,
+      "end": 1320,
+      "tokens": 2497,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "dialogic",
+      "start": 880,
+      "end": 900,
+      "tokens": 1285,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "dialogic",
+      "start": 430,
+      "end": 440,
+      "tokens": 1217,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "dialogic",
+      "start": 680,
+      "end": 695,
+      "tokens": 831,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "dialogic",
+      "start": 2300,
+      "end": 2320,
+      "tokens": 1320,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "learning",
+      "start": 402,
+      "end": 436,
+      "tokens": 1984,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "learning",
+      "start": 674,
+      "end": 706,
+      "tokens": 709,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "learning",
+      "start": 933,
+      "end": 960,
+      "tokens": 2035,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "learning",
+      "start": 1180,
+      "end": 1210,
+      "tokens": 567,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "learning",
+      "start": 1470,
+      "end": 1495,
+      "tokens": 1966,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "learning",
+      "start": 1555,
+      "end": 1575,
+      "tokens": 1513,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "learning",
+      "start": 1810,
+      "end": 1830,
+      "tokens": 1648,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "learning",
+      "start": 2040,
+      "end": 2070,
+      "tokens": 674,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "learning",
+      "start": 2190,
+      "end": 2210,
+      "tokens": 848,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "awareness",
+      "start": 10250,
+      "end": 10332,
+      "tokens": 1598,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "dialogic",
+      "start": 1920,
+      "end": 1958,
+      "tokens": 2930,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators",
+      "question": "前次批量显示可能截断或当前论点仍需核对：该段是否实际支持拟采用的区别与条件？",
+      "resolution": "复核以参考中的定位与coverage.md的限制为准；操作区间不作为逐行已读证明。"
+    },
+    {
+      "source": "dialogic",
+      "start": 2854,
+      "end": 2876,
+      "tokens": 238,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "dialogic",
+      "start": 2921,
+      "end": 2931,
+      "tokens": 51,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    },
+    {
+      "source": "dialogic",
+      "start": 750,
+      "end": 775,
+      "tokens": 1296,
+      "reason": "bounded source reading",
+      "token_method": "characters/4 approximation; includes locators"
+    }
+  ],
+  "measurement_caveat": "Requested printed spans; some batches truncated. Tokens approximate characters/4. See coverage.md."
+}

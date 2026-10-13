@@ -1,0 +1,42 @@
+{
+  "learning": {
+    "markdown": "How-Learning-Works-Seven-Research-Based-Principles-for-Smart-Teaching-Ambrose-Su.md",
+    "markdown_sha256": "1a2fb07ad7df1daea9079b302ff5fc026776eeeae18040a41658c1bc7965fa90",
+    "lines": 3365,
+    "pdf": "How Learning Works Seven Research-Based Principles for Smart Teaching (Ambrose, Susan A.).pdf",
+    "pdf_sha256": "89a90373268cffb800fded247597930770ac0c4527c0e97e6914877554eb5720",
+    "pdf_pages": 328
+  },
+  "complex": {
+    "markdown": "Ten-Steps-to-Complex-Learning-A-Systematic-Approach-to-Four-Component-Instructio.md",
+    "markdown_sha256": "755eedcdde29a1d0c41ba4a3e60c036da5b73435be82013992733a4c5b6150d7",
+    "lines": 22332,
+    "pdf": "Ten Steps to Complex Learning A Systematic Approach to Four-Component Instructional Design (Jeroen J. G. van Merriënboer etc.).pdf",
+    "pdf_sha256": "be7f2d254115cafa86cd3bad94055ab69d0e42b64f34eb473069fdf0030f32df",
+    "pdf_pages": 462
+  },
+  "awareness": {
+    "markdown": "Learning-and-awareness-Marton-Ference-Booth-etc.md",
+    "markdown_sha256": "375a0ba6d68068be0b9a96db268b82845507b6f0a1038b7c2384f27ca0df7cf1",
+    "lines": 11380,
+    "pdf": "Learning and awareness (Marton, Ference, Booth etc.).pdf",
+    "pdf_sha256": "2cd4100ecfe4bac82d94bf8a148d35598a13eb12a455913c0f2ec437d6d4177a",
+    "pdf_pages": 248
+  },
+  "multimedia": {
+    "markdown": "The-Cambridge-Handbook-of-Multimedia-Learning-Cambridge-Handbooks-in-Psychology-.md",
+    "markdown_sha256": "e98940ebfe3beeaa008bf9d69d4594346a087a9beb303f8360da73206c07e71e",
+    "lines": 9850,
+    "pdf": "The Cambridge Handbook of Multimedia Learning (Cambridge Handbooks in Psychology) (Richard E. Mayer, Logan Fiorella).pdf",
+    "pdf_sha256": "ea2529b884d7fed84ef05e76078ad872d501bdd494b3d188e1fbfd362c785a28",
+    "pdf_pages": 629
+  },
+  "dialogic": {
+    "markdown": "A-Dialogic-Teaching-Companion-Robin-Alexander.md",
+    "markdown_sha256": "24e98c7d32f02192195f995088fa134b55e9af5f56382848430602e49d7db02c",
+    "lines": 3553,
+    "pdf": "A Dialogic Teaching Companion (Robin Alexander).pdf",
+    "pdf_sha256": "e93b1235634a974b3748d3f704e25836a6644af4057d758e8267d14c73c8b236",
+    "pdf_pages": 247
+  }
+}

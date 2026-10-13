@@ -1,0 +1,604 @@
+[
+  {
+    "source": "learning",
+    "pdf_page": 73,
+    "characters": 2198,
+    "tokens_approx": 550,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 96,
+    "characters": 918,
+    "tokens_approx": 230,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 97,
+    "characters": 2184,
+    "tokens_approx": 546,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 121,
+    "characters": 1575,
+    "tokens_approx": 394,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 122,
+    "characters": 1106,
+    "tokens_approx": 276,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 133,
+    "characters": 1907,
+    "tokens_approx": 477,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 167,
+    "characters": 2088,
+    "tokens_approx": 522,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 168,
+    "characters": 1912,
+    "tokens_approx": 478,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 198,
+    "characters": 2030,
+    "tokens_approx": 508,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 255,
+    "characters": 10416,
+    "tokens_approx": 2604,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 278,
+    "characters": 1862,
+    "tokens_approx": 466,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 31,
+    "characters": 2907,
+    "tokens_approx": 727,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 32,
+    "characters": 1608,
+    "tokens_approx": 402,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 33,
+    "characters": 2698,
+    "tokens_approx": 674,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 61,
+    "characters": 3155,
+    "tokens_approx": 789,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 62,
+    "characters": 1504,
+    "tokens_approx": 376,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 63,
+    "characters": 3402,
+    "tokens_approx": 850,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 75,
+    "characters": 2852,
+    "tokens_approx": 713,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 111,
+    "characters": 3315,
+    "tokens_approx": 829,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 141,
+    "characters": 3055,
+    "tokens_approx": 764,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 173,
+    "characters": 2864,
+    "tokens_approx": 716,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 205,
+    "characters": 3048,
+    "tokens_approx": 762,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 217,
+    "characters": 2886,
+    "tokens_approx": 722,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 218,
+    "characters": 3043,
+    "tokens_approx": 761,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 235,
+    "characters": 3082,
+    "tokens_approx": 770,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 236,
+    "characters": 2886,
+    "tokens_approx": 722,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 263,
+    "characters": 2964,
+    "tokens_approx": 741,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 277,
+    "characters": 3072,
+    "tokens_approx": 768,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 291,
+    "characters": 3149,
+    "tokens_approx": 787,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 315,
+    "characters": 3276,
+    "tokens_approx": 819,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 337,
+    "characters": 3177,
+    "tokens_approx": 794,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 355,
+    "characters": 2562,
+    "tokens_approx": 640,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 42,
+    "characters": 2433,
+    "tokens_approx": 608,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 87,
+    "characters": 2285,
+    "tokens_approx": 571,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 105,
+    "characters": 3129,
+    "tokens_approx": 782,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 132,
+    "characters": 3326,
+    "tokens_approx": 832,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 155,
+    "characters": 3306,
+    "tokens_approx": 826,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 186,
+    "characters": 2972,
+    "tokens_approx": 743,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 198,
+    "characters": 2884,
+    "tokens_approx": 721,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 248,
+    "characters": 1394,
+    "tokens_approx": 348,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 300,
+    "characters": 2298,
+    "tokens_approx": 574,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 339,
+    "characters": 1246,
+    "tokens_approx": 312,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 361,
+    "characters": 743,
+    "tokens_approx": 186,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 25,
+    "characters": 83,
+    "tokens_approx": 21,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 39,
+    "characters": 5480,
+    "tokens_approx": 1370,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 47,
+    "characters": 7231,
+    "tokens_approx": 1808,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 63,
+    "characters": 6258,
+    "tokens_approx": 1564,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 79,
+    "characters": 5121,
+    "tokens_approx": 1280,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 95,
+    "characters": 7201,
+    "tokens_approx": 1800,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 104,
+    "characters": 352,
+    "tokens_approx": 88,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 122,
+    "characters": 6590,
+    "tokens_approx": 1648,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 143,
+    "characters": 6448,
+    "tokens_approx": 1612,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 154,
+    "characters": 6718,
+    "tokens_approx": 1680,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 79,
+    "characters": 5121,
+    "tokens_approx": 1280,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 95,
+    "characters": 7201,
+    "tokens_approx": 1800,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 104,
+    "characters": 352,
+    "tokens_approx": 88,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 175,
+    "characters": 7215,
+    "tokens_approx": 1804,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 180,
+    "characters": 2828,
+    "tokens_approx": 707,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 193,
+    "characters": 2661,
+    "tokens_approx": 665,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 216,
+    "characters": 6002,
+    "tokens_approx": 1500,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 221,
+    "characters": 4494,
+    "tokens_approx": 1124,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 234,
+    "characters": 6484,
+    "tokens_approx": 1621,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 243,
+    "characters": 6357,
+    "tokens_approx": 1589,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 259,
+    "characters": 7190,
+    "tokens_approx": 1798,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 83,
+    "characters": 6095,
+    "tokens_approx": 1524,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 108,
+    "characters": 6462,
+    "tokens_approx": 1616,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 285,
+    "characters": 7393,
+    "tokens_approx": 1848,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 290,
+    "characters": 6623,
+    "tokens_approx": 1656,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 418,
+    "characters": 8032,
+    "tokens_approx": 2008,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 428,
+    "characters": 8861,
+    "tokens_approx": 2215,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 444,
+    "characters": 6421,
+    "tokens_approx": 1605,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 405,
+    "characters": 6387,
+    "tokens_approx": 1597,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 583,
+    "characters": 6225,
+    "tokens_approx": 1556,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 91,
+    "characters": 1176,
+    "tokens_approx": 294,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 115,
+    "characters": 1810,
+    "tokens_approx": 452,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 146,
+    "characters": 1626,
+    "tokens_approx": 406,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 178,
+    "characters": 1785,
+    "tokens_approx": 446,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 213,
+    "characters": 1015,
+    "tokens_approx": 254,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 242,
+    "characters": 942,
+    "tokens_approx": 236,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 2,
+    "characters": 1882,
+    "tokens_approx": 470,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 5,
+    "characters": 2487,
+    "tokens_approx": 622,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 190,
+    "characters": 7622,
+    "tokens_approx": 1906,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 263,
+    "characters": 0,
+    "tokens_approx": 0,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 383,
+    "characters": 3981,
+    "tokens_approx": 995,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 410,
+    "characters": 5621,
+    "tokens_approx": 1405,
+    "purpose": "source body / original-layout recovery"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 566,
+    "characters": 7291,
+    "tokens_approx": 1823,
+    "purpose": "source body / original-layout recovery"
+  }
+]

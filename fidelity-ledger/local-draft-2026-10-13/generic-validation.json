@@ -1,0 +1,97 @@
+{
+  "errors": [
+    "examples/ — the only subdirectory the generated skill may have is references/ (no chapters/, no per-book folders)",
+    "reference-alexander-dialogic.md is missing the `## Mental Model` section",
+    "reference-alexander-dialogic.md is missing the `## Frameworks & Structure` section",
+    "reference-alexander-dialogic.md is missing the `## Key Takeaways` section",
+    "reference-ambrose-learning.md is missing the `## Mental Model` section",
+    "reference-ambrose-learning.md is missing the `## Frameworks & Structure` section",
+    "reference-ambrose-learning.md is missing the `## Key Takeaways` section",
+    "reference-marton-booth-awareness.md is missing the `## Mental Model` section",
+    "reference-marton-booth-awareness.md is missing the `## Frameworks & Structure` section",
+    "reference-marton-booth-awareness.md is missing the `## Key Takeaways` section",
+    "reference-multimedia-handbook.md is missing the `## Mental Model` section",
+    "reference-multimedia-handbook.md is missing the `## Frameworks & Structure` section",
+    "reference-multimedia-handbook.md is missing the `## Key Takeaways` section",
+    "reference-van-merrienboer-complex.md is missing the `## Mental Model` section",
+    "reference-van-merrienboer-complex.md is missing the `## Frameworks & Structure` section",
+    "reference-van-merrienboer-complex.md is missing the `## Key Takeaways` section"
+  ],
+  "warnings": [
+    "references/sources.md — unexpected file; the contract is reference-<slug>.md, and optionally topic-index.md",
+    "references/ste-and-chinese.md — unexpected file; the contract is reference-<slug>.md, and optionally topic-index.md",
+    "reference-alexander-dialogic.md has no `**Sections**: N` in its header line, so its Step 7 budget cannot be computed — only the 19,500 cap could be checked",
+    "reference-alexander-dialogic.md has no `## Decision Rules & Judgment` — expected unless the library was built in strict mode",
+    "reference-alexander-dialogic.md declares DEPTH=study but has no Worked Example — the single biggest reason a study-depth file earns its budget",
+    "reference-ambrose-learning.md has no `**Sections**: N` in its header line, so its Step 7 budget cannot be computed — only the 14,000 cap could be checked",
+    "reference-ambrose-learning.md has no `## Decision Rules & Judgment` — expected unless the library was built in strict mode",
+    "reference-ambrose-learning.md declares DEPTH=study but has no Worked Example — the single biggest reason a study-depth file earns its budget",
+    "reference-marton-booth-awareness.md has no `**Sections**: N` in its header line, so its Step 7 budget cannot be computed — only the 14,000 cap could be checked",
+    "reference-marton-booth-awareness.md has no `## Decision Rules & Judgment` — expected unless the library was built in strict mode",
+    "reference-marton-booth-awareness.md declares DEPTH=study but has no Worked Example — the single biggest reason a study-depth file earns its budget",
+    "reference-multimedia-handbook.md has no `**Sections**: N` in its header line, so its Step 7 budget cannot be computed — only the 19,500 cap could be checked",
+    "reference-multimedia-handbook.md has no `## Decision Rules & Judgment` — expected unless the library was built in strict mode",
+    "reference-multimedia-handbook.md declares DEPTH=study but has no Worked Example — the single biggest reason a study-depth file earns its budget",
+    "reference-van-merrienboer-complex.md has no `**Sections**: N` in its header line, so its Step 7 budget cannot be computed — only the 19,500 cap could be checked",
+    "reference-van-merrienboer-complex.md has no `## Decision Rules & Judgment` — expected unless the library was built in strict mode",
+    "reference-van-merrienboer-complex.md declares DEPTH=study but has no Worked Example — the single biggest reason a study-depth file earns its budget"
+  ],
+  "facts": {
+    "skill_root": ".",
+    "discovery_entry": ".agents/skills/indwell-via-shared-discern",
+    "layout": "published-repo",
+    "license": {
+      "spdx_id": "MIT",
+      "standard_text": true,
+      "copyright_notices": [
+        "Copyright (c) 2026 Ariel Lee"
+      ]
+    },
+    "master_body_tokens": 2186,
+    "master_budget": 3325,
+    "master_capabilities": 5,
+    "references": {
+      "reference-alexander-dialogic.md": {
+        "tokens": 1641,
+        "cap": 19500,
+        "depth": "study",
+        "type": "technical",
+        "sections": null,
+        "budget": null
+      },
+      "reference-ambrose-learning.md": {
+        "tokens": 1741,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": null,
+        "budget": null
+      },
+      "reference-marton-booth-awareness.md": {
+        "tokens": 1575,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": null,
+        "budget": null
+      },
+      "reference-multimedia-handbook.md": {
+        "tokens": 3233,
+        "cap": 19500,
+        "depth": "study",
+        "type": "technical",
+        "sections": null,
+        "budget": null
+      },
+      "reference-van-merrienboer-complex.md": {
+        "tokens": 1703,
+        "cap": 19500,
+        "depth": "study",
+        "type": "technical",
+        "sections": null,
+        "budget": null
+      }
+    },
+    "books": 5
+  }
+}

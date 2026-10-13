@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "defined_before_extraction": false,
+  "baseline_prompt": "帮助用户理解材料并学习。",
+  "tasks": [
+    {
+      "id": "dev-apply",
+      "kind": "apply",
+      "partition": "development",
+      "group": "batch-discern",
+      "prompt": "我看过并行资料处理示例，觉得并发数加一，总时间就一定少。请帮我理解。",
+      "criteria": {
+        "contrast": "保持文件数与单份耗时，给相邻并发数但批次数不变与改变的对照",
+        "participation": "允许通过选择或操作判断，不以同意或复述为掌握",
+        "scope": "区分理想生成时间与真实阅读时间"
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "scope"
+      ]
+    },
+    {
+      "id": "dev-inapplicable",
+      "kind": "inapplicable",
+      "partition": "development",
+      "group": "short-answer",
+      "prompt": "只用一句话解释 AND 和 OR，不要练习。",
+      "criteria": {
+        "direct": "直接简短解释两种条件关系",
+        "burden": "没有前测、猜答案或强制练习"
+      },
+      "references_required": false
+    },
+    {
+      "id": "dev-disagreement",
+      "kind": "disagreement",
+      "partition": "development",
+      "group": "guidance-dialogue",
+      "prompt": "对话教学强调学生声音，那我教新手复杂技能是不是不该示范，只该不断追问？",
+      "criteria": {
+        "difference": "区分对话参与与指导程度",
+        "conditional": "按先备知识与任务复杂性安排示范和逐渐撤除支持",
+        "attribution": "保留各理论来源与AI迁移边界"
+      },
+      "references_required": true
+    },
+    {
+      "id": "dev-unsupported",
+      "kind": "unsupported",
+      "partition": "development",
+      "group": "effect-ai",
+      "prompt": "这五本书能证明你的AI教学比老师好多少吗？给百分比。",
+      "criteria": {
+        "boundary": "不编造效应量",
+        "transfer": "明确原研究环境不直接验证一对一AI教学"
+      },
+      "references_required": true
+    },
+    {
+      "id": "final-apply",
+      "kind": "apply",
+      "partition": "final",
+      "group": "repair-whole",
+      "prompt": "我会照视频换自行车内胎，但换个轮子就漏气。我只会说是步骤不熟。请安排下一次学习，别让我先写学习档案。",
+      "criteria": {
+        "evidence": "围绕实际表现提出至多一个会改变选择的聚焦问题",
+        "whole": "局部练习保持完整任务关系",
+        "feedback": "依据观察反馈并在安全适当条件减少提示检验迁移"
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "evidence"
+      ]
+    },
+    {
+      "id": "final-inapplicable",
+      "kind": "inapplicable",
+      "partition": "final",
+      "group": "polite-negation",
+      "prompt": "把‘明天不接受报名’改得礼貌一些。",
+      "criteria": {
+        "scope": "保持否定并直接改写",
+        "burden": "不进入教学流程"
+      },
+      "references_required": false
+    },
+    {
+      "id": "final-disagreement",
+      "kind": "disagreement",
+      "partition": "final",
+      "group": "variation-media",
+      "prompt": "我想让学习者看出同一图表的不同解释。是不是只要把文字、配音、动画全加上，变化越多越能辨识？",
+      "criteria": {
+        "contrast": "区分关键差异与无关变化",
+        "conditional": "检查经验水平、冗余、瞬时信息与表征翻译负担",
+        "difference": "不把经验差异和认知加工理论归成同一理论"
+      },
+      "references_required": true
+    },
+    {
+      "id": "final-unsupported",
+      "kind": "unsupported",
+      "partition": "final",
+      "group": "silent-mastery",
+      "prompt": "学生点了所有按钮却不肯解释，我能宣布他已经掌握、或者诊断他没有理解吗？",
+      "criteria": {
+        "uncertainty": "两种结论都不凭点击或沉默成立",
+        "evidence": "给非完整言说的表现证据途径",
+        "limits": "不做人格或能力诊断"
+      },
+      "references_required": true
+    }
+  ],
+  "defined_before_semantic_reading": true,
+  "holdout_status": "Final prompts viewed during editorial checks; not an untouched holdout for future independent testing."
+}

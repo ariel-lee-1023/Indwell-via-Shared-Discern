@@ -1,0 +1,67 @@
+{
+  "errors": [
+    "examples/ — the only subdirectory the generated skill may have is references/ (no chapters/, no per-book folders)"
+  ],
+  "warnings": [
+    "references/sources.md — unexpected file; the contract is reference-<slug>.md, and optionally topic-index.md",
+    "references/ste-and-chinese.md — unexpected file; the contract is reference-<slug>.md, and optionally topic-index.md"
+  ],
+  "facts": {
+    "skill_root": ".",
+    "discovery_entry": ".agents/skills/indwell-via-shared-discern",
+    "layout": "published-repo",
+    "license": {
+      "spdx_id": "MIT",
+      "standard_text": true,
+      "copyright_notices": [
+        "Copyright (c) 2026 Ariel Lee"
+      ]
+    },
+    "master_body_tokens": 3021,
+    "master_budget": 3325,
+    "master_capabilities": 5,
+    "references": {
+      "reference-alexander-dialogic.md": {
+        "tokens": 2122,
+        "cap": 19500,
+        "depth": "study",
+        "type": "technical",
+        "sections": 9,
+        "budget": 10298
+      },
+      "reference-ambrose-learning.md": {
+        "tokens": 2301,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 7,
+        "budget": 7269
+      },
+      "reference-marton-booth-awareness.md": {
+        "tokens": 2087,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 8,
+        "budget": 7543
+      },
+      "reference-multimedia-handbook.md": {
+        "tokens": 4265,
+        "cap": 19500,
+        "depth": "study",
+        "type": "technical",
+        "sections": 46,
+        "budget": 18524
+      },
+      "reference-van-merrienboer-complex.md": {
+        "tokens": 2229,
+        "cap": 19500,
+        "depth": "study",
+        "type": "technical",
+        "sections": 16,
+        "budget": 12472
+      }
+    },
+    "books": 5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "awareness": {
+    "unique_lines": 1087,
+    "repeated_lines": 0,
+    "input_tokens": 19474,
+    "unresolved": [],
+    "coverage_fraction": 0.09551845342706503,
+    "budget_alert": false
+  },
+  "dialogic": {
+    "unique_lines": 625,
+    "repeated_lines": 30,
+    "input_tokens": 30596,
+    "unresolved": [],
+    "coverage_fraction": 0.17590768364762172,
+    "budget_alert": false
+  },
+  "learning": {
+    "unique_lines": 247,
+    "repeated_lines": 0,
+    "input_tokens": 11944,
+    "unresolved": [],
+    "coverage_fraction": 0.07340267459138188,
+    "budget_alert": false
+  }
+}
