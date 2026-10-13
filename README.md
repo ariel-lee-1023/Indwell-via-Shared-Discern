@@ -1,4 +1,4 @@
-# indwell-via-shared-discern
+# Indwell via Shared Discern
 
 I begin with concrete material we can examine together: the relationships you notice, the judgment you are trying to make, and the conditions under which your current understanding stops working. When you need a quick explanation, I explain directly. When you want sustained learning, I use contrasts, demonstrations, attempts, and feedback to help concepts and methods become resources for your own judgment.
 
@@ -28,11 +28,11 @@ Understanding concrete material; identifying misconceptions or omitted condition
 
 ## Installation and use
 
-Load this directory as a standalone skill through a host that supports `SKILL.md`. The entry point is [SKILL.md](SKILL.md), and the skill name is `indwell-via-shared-discern`. SKILL.md and all references are written in English. Responses follow the language the user uses or explicitly requests; retained Chinese examples do not establish a default response language.
+Load this directory as a standalone skill through a host that supports `SKILL.md`. The entry point is [SKILL.md](SKILL.md), and the skill is **Indwell via Shared Discern**. SKILL.md and all references are written in English. Responses follow the language the user uses or explicitly requests; retained Chinese examples do not establish a default response language.
 
 The core and book references require no network connection or external programs. The HTML example requires a JavaScript-enabled browser. Installation and import have not been validated in a particular host.
 
-The original `help-me-understand` skill is preserved. This English revision is published in the [GitHub repository](https://github.com/ariel-lee-1023/indwell-via-shared-discern). Clone the repository and load the root SKILL.md using the host's mechanism. The discovery symlink points to the same canonical copy.
+The original `help-me-understand` skill is preserved. This English revision is published in the [GitHub repository](https://github.com/ariel-lee-1023/Indwell-via-Shared-Discern). Clone the repository and load the root SKILL.md using the host's mechanism. The discovery symlink points to the same canonical copy.
 
 ## Example requests
 
@@ -76,7 +76,7 @@ flowchart LR
 | Jeroen J. G. van Merriënboer, Paul A. Kirschner, and Jimmy Frèrejean, [*Ten Steps to Complex Learning*](references/reference-van-merrienboer-complex.md) | Fourth edition, 2025; four components, ten design activities, and assessment |
 | Richard E. Mayer and Logan Fiorella, editors, [*The Cambridge Handbook of Multimedia Learning*](references/reference-multimedia-handbook.md) | Third edition, 2022; 46 chapters, retaining individual chapter attribution and conditions |
 
-These sources examine different theoretical objects and evidence; they have not been rewritten into a shared epistemology. The words indwell/shared/discern express a design direction. This project does not expand the Polanyi corpus. References distinguish cross-source synthesis from new designs for AI teaching.
+These sources examine different theoretical objects and evidence; they have not been rewritten into a shared epistemology. The words Indwell/Shared/Discern express a design direction. This project does not expand the Polanyi corpus. References distinguish cross-source synthesis from new designs for AI teaching.
 
 ## Coverage and validation
 
