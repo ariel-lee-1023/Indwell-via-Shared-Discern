@@ -1,6 +1,6 @@
 # Inherited source notes
 
-The original version recorded verification on 2026-10-09. These notes are retained; the sources were not rechecked online during this revision. Everyday teaching does not require reopening every link.
+The original version recorded verification on 2026-10-09. These notes are retained as historical provenance, outside the five-book original-English audit. An attempt to reopen the official Issue 9 PDF during that audit returned HTTP 403; it did not verify the standard or the other external sources. Everyday teaching does not require reopening every link.
 
 ## Normative sources
 

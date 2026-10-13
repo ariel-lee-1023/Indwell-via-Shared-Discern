@@ -1,6 +1,6 @@
 # STE principles and adaptation for Chinese
 
-This reference distinguishes summaries of official rules, adaptations for Chinese, and methods introduced by this skill. Rule locations refer to ASD-STE100 Issue 9; see the [source notes](sources.md). This is a selective paraphrase, not an official translation or a complete rule list. Chinese-specific guidance applies when the user is communicating in or requests Chinese; it does not establish a default response language.
+This reference distinguishes summaries of official rules, adaptations for Chinese, and methods introduced by this skill. Rule locations refer to ASD-STE100 Issue 9; see the [source notes](sources.md). This is a selective paraphrase, not an official translation or a complete rule list. The official-rule rows below remain inherited and were not independently reverified in the five-book audit; do not use that audit as evidence of formal STE compliance. Chinese-specific guidance applies when the user is communicating in or requests Chinese; it does not establish a default response language.
 
 ## Relevant official rules
 

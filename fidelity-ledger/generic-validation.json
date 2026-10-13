@@ -17,12 +17,12 @@
         "Copyright (c) 2026 Ariel Lee"
       ]
     },
-    "master_body_tokens": 3021,
+    "master_body_tokens": 3043,
     "master_budget": 3325,
     "master_capabilities": 5,
     "references": {
       "reference-alexander-dialogic.md": {
-        "tokens": 2122,
+        "tokens": 2361,
         "cap": 19500,
         "depth": "study",
         "type": "technical",
@@ -30,7 +30,7 @@
         "budget": 10298
       },
       "reference-ambrose-learning.md": {
-        "tokens": 2301,
+        "tokens": 2535,
         "cap": 14000,
         "depth": "study",
         "type": "text",
@@ -38,7 +38,7 @@
         "budget": 7269
       },
       "reference-marton-booth-awareness.md": {
-        "tokens": 2087,
+        "tokens": 2450,
         "cap": 14000,
         "depth": "study",
         "type": "text",
@@ -46,7 +46,7 @@
         "budget": 7543
       },
       "reference-multimedia-handbook.md": {
-        "tokens": 4265,
+        "tokens": 4516,
         "cap": 19500,
         "depth": "study",
         "type": "technical",
@@ -54,7 +54,7 @@
         "budget": 18524
       },
       "reference-van-merrienboer-complex.md": {
-        "tokens": 2229,
+        "tokens": 2574,
         "cap": 19500,
         "depth": "study",
         "type": "technical",

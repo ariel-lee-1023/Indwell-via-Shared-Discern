@@ -3,7 +3,7 @@
     "severity": "LOW",
     "rule": "external-link",
     "why": "links off to a host the distillation did not need",
-    "file": "/Users/AI products/GIthub/indwell-via-shared-discern/references/sources.md",
+    "file": "/tmp/indwell-source-audit/candidate/references/sources.md",
     "line": 7,
     "excerpt": "https://www.asd-ste100.org/assets/files/ASD-STE100_ISSUE9.pdf"
   },
@@ -11,7 +11,7 @@
     "severity": "LOW",
     "rule": "external-link",
     "why": "links off to a host the distillation did not need",
-    "file": "/Users/AI products/GIthub/indwell-via-shared-discern/references/sources.md",
+    "file": "/tmp/indwell-source-audit/candidate/references/sources.md",
     "line": 12,
     "excerpt": "https://www.asd-ste100.org/STE_faq.html"
   },
@@ -19,7 +19,7 @@
     "severity": "LOW",
     "rule": "external-link",
     "why": "links off to a host the distillation did not need",
-    "file": "/Users/AI products/GIthub/indwell-via-shared-discern/references/sources.md",
+    "file": "/tmp/indwell-source-audit/candidate/references/sources.md",
     "line": 13,
     "excerpt": "https://www.asd-ste100.org/about_STE.html"
   },
@@ -27,7 +27,7 @@
     "severity": "LOW",
     "rule": "external-link",
     "why": "links off to a host the distillation did not need",
-    "file": "/Users/AI products/GIthub/indwell-via-shared-discern/references/sources.md",
+    "file": "/tmp/indwell-source-audit/candidate/references/sources.md",
     "line": 14,
     "excerpt": "https://www.asd-ste100.org/assets/files/WhitePaper-ASD-STE100_and_AI.pdf"
   },
@@ -35,7 +35,7 @@
     "severity": "LOW",
     "rule": "external-link",
     "why": "links off to a host the distillation did not need",
-    "file": "/Users/AI products/GIthub/indwell-via-shared-discern/references/sources.md",
+    "file": "/tmp/indwell-source-audit/candidate/references/sources.md",
     "line": 20,
     "excerpt": "https://x.com/karpathy/status/2105819303471976479"
   },
@@ -43,7 +43,7 @@
     "severity": "LOW",
     "rule": "external-link",
     "why": "links off to a host the distillation did not need",
-    "file": "/Users/AI products/GIthub/indwell-via-shared-discern/references/sources.md",
+    "file": "/tmp/indwell-source-audit/candidate/references/sources.md",
     "line": 22,
     "excerpt": "https://mp.weixin.qq.com/s/5YPKctLVxVKXVwa1KDiH4A"
   },
@@ -51,7 +51,7 @@
     "severity": "LOW",
     "rule": "external-link",
     "why": "links off to a host the distillation did not need",
-    "file": "/Users/AI products/GIthub/indwell-via-shared-discern/references/sources.md",
+    "file": "/tmp/indwell-source-audit/candidate/references/sources.md",
     "line": 28,
     "excerpt": "https://journals.sagepub.com/doi/10.1177/154193129604000502"
   },
@@ -59,7 +59,7 @@
     "severity": "LOW",
     "rule": "external-link",
     "why": "links off to a host the distillation did not need",
-    "file": "/Users/AI products/GIthub/indwell-via-shared-discern/references/sources.md",
+    "file": "/tmp/indwell-source-audit/candidate/references/sources.md",
     "line": 29,
     "excerpt": "https://animorepository.dlsu.edu.ph/jeal/vol4/iss2/1/"
   },
@@ -67,7 +67,7 @@
     "severity": "LOW",
     "rule": "external-link",
     "why": "links off to a host the distillation did not need",
-    "file": "/Users/AI products/GIthub/indwell-via-shared-discern/references/sources.md",
+    "file": "/tmp/indwell-source-audit/candidate/references/sources.md",
     "line": 33,
     "excerpt": "https://www.asd-ste100.org/STE_downloads.html"
   }

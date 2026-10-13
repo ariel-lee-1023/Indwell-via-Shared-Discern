@@ -9,11 +9,11 @@
     "references/sources.md — unexpected file; the contract is reference-<slug>.md, and optionally topic-index.md",
     "references/ste-and-chinese.md — unexpected file; the contract is reference-<slug>.md, and optionally topic-index.md"
   ],
-  "core_tokens_estimated": 3021,
+  "core_tokens_estimated": 3043,
   "reference_budgets": {
     "reference-alexander-dialogic.md": {
       "sections": 9,
-      "tokens_estimated": 2122,
+      "tokens_estimated": 2361,
       "type": "text",
       "depth": "study",
       "target": 7800,
@@ -21,7 +21,7 @@
     },
     "reference-ambrose-learning.md": {
       "sections": 7,
-      "tokens_estimated": 2301,
+      "tokens_estimated": 2535,
       "type": "text",
       "depth": "study",
       "target": 7269,
@@ -29,7 +29,7 @@
     },
     "reference-marton-booth-awareness.md": {
       "sections": 8,
-      "tokens_estimated": 2087,
+      "tokens_estimated": 2450,
       "type": "text",
       "depth": "study",
       "target": 7543,
@@ -37,7 +37,7 @@
     },
     "reference-multimedia-handbook.md": {
       "sections": 46,
-      "tokens_estimated": 4265,
+      "tokens_estimated": 4516,
       "type": "text",
       "depth": "study",
       "target": 13473,
@@ -45,7 +45,7 @@
     },
     "reference-van-merrienboer-complex.md": {
       "sections": 16,
-      "tokens_estimated": 2229,
+      "tokens_estimated": 2574,
       "type": "text",
       "depth": "study",
       "target": 9300,
@@ -59,14 +59,14 @@
     "README Mermaid rendering"
   ],
   "runtime_hashes": {
-    "SKILL.md": "b158c9983cffea21544cfa3e11817c641db12418853bc637df2667991fd8eef4",
-    "references/reference-alexander-dialogic.md": "5ee0c4127356590d187b17c1483c72f61dca934e22351eb40eaea1b2f7739feb",
-    "references/reference-ambrose-learning.md": "fd197d7dadf849564e1ded0f1a31ce7c21a678d0e3ba9ff7baf144e7f116a98e",
-    "references/reference-marton-booth-awareness.md": "b27f217b121038c537d1dcc17dfd53e316917772927d8b9d4cb7b7163eba5ee6",
-    "references/reference-multimedia-handbook.md": "fa1223769600a56a12c1096d03e0932d1d973479434a205492016510f56c8472",
-    "references/reference-van-merrienboer-complex.md": "14ec8f48b640dc5fb9f84e2c4efc4a02bbcbd22894109a58577079ecdf0f6084",
-    "references/sources.md": "9801f44e2707ae2aa926a53613a598eb92f736c4fc3b0955ffd7187987ef44d0",
-    "references/ste-and-chinese.md": "cef4c3fdad98166641b1dd667e348831573317be1fe3cd67fd4d3bd92530a16f",
+    "SKILL.md": "7fb95bf47eff6442bae8bcd7778fda20fa2fd815fc43504805bc16eb0d30be31",
+    "references/reference-alexander-dialogic.md": "ecbaf55113eac814c3c26c9eb502b0ce99f3d8d568c17df7ce3e9951a88b75a4",
+    "references/reference-ambrose-learning.md": "62b472f0f709cda94109b1cfe5bfaabcaeae316764d050736e5ad06f27a267a0",
+    "references/reference-marton-booth-awareness.md": "9c19d02ce9a356f0d141f79819e8ea5a6d02d17d30f9a9ad585cf18e1c6c755e",
+    "references/reference-multimedia-handbook.md": "da65ca50fcb2b6b0ef14247a5b332ea6c469246308cd9cb6d71c50bd922b553f",
+    "references/reference-van-merrienboer-complex.md": "b3a139fae578edbb7f090a429bba91d21523e0eacaa2bb924970a866b4e842d0",
+    "references/sources.md": "f4c01d28393115f3b0496754f5b656478f2bc75bce2c9a9f51df3614ea6203a1",
+    "references/ste-and-chinese.md": "ef5429ec3a9587aaed4fd8d26fab81aee27563685a5d76dc79f4e16dc438657c",
     "examples/flow.svg": "e2ea08b682a1708b94e8f710aba38384704fe5d4d3ac1b720fb7113b4f5167b4",
     "examples/parallel-demo.html": "19701e40779abd79959c2662d05af30cb1d396a2d0c7f4503fa63f4e43a985e0",
     "examples/shared-discern.md": "abfd156edc10ee76338228f919581371bf52e3ca30c30dffc9420555d48a28d8",

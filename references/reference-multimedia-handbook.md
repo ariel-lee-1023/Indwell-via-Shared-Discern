@@ -5,11 +5,11 @@ Third edition, 2022. Edited by Richard E. Mayer and Logan Fiorella. Claims below
 
 ## Mental Model
 
-Chapter 1 (Mayer and Fiorella) distinguishes media, presentation modes, sensory modalities, and related concepts; multimedia research is not a ranking of devices. Chapter 3 (Feldon, Jeong, and Clark) examines questionable claims and cautions against confusing media effects with instructional-method effects. Chapter 4 (Jarodzka) addresses research methods: learning measures, process measures, and subjective feelings are not interchangeable. Locations: PDF24 onward, PDF47, PDF63.
+Chapter 1 (Mayer and Fiorella) distinguishes media, presentation modes, sensory modalities, and related concepts; multimedia research is not a ranking of devices. Chapter 3 (Feldon, Jeong, and Clark) examines questionable claims and cautions against confusing media effects with instructional-method effects. Chapter 4 (Jarodzka) addresses research methods: learning measures, process measures, and subjective feelings are not interchangeable. Locations: PDF24–26, PDF47, PDF63.
 
-Chapter 5, **Mayer's cognitive theory of multimedia learning (CTML)**, assumes dual channels, limited capacity, and active processing through selecting, organizing, and integrating with prior knowledge. Keep essential, extraneous, and generative processing distinct: reducing irrelevant processing does not mean removing the effort needed for understanding. Retention and transfer tests answer different questions (PDF79, 83).
+Chapter 5, **Mayer's cognitive theory of multimedia learning (CTML)**, assumes dual channels, limited capacity, and active processing through selecting, organizing, and integrating with prior knowledge. Keep essential, extraneous, and generative processing distinct: reducing irrelevant processing does not mean removing the effort needed for understanding. Retention and transfer tests answer different questions (PDF79, 83, 87).
 
-Chapter 6, **Paas and Sweller's cognitive load theory**, addresses working and long-term memory, natural information-processing principles, and biologically primary/secondary knowledge (PDF95). This is an attributed theoretical framework, not an uncontested mechanism shared by all authors. Chapter 7, **Schnotz's integrated model of text and picture comprehension**, distinguishes descriptive and depictive representations and their construction (PDF108), rather than merely redrawing Mayer's model. Chapter 8, **Kester and van Merriënboer's 4C/ID account**, places presentation within complex learning design (PDF122); see [Ten Steps](reference-van-merrienboer-complex.md) for task-level decisions.
+Chapter 6, **Paas and Sweller's cognitive load theory**, addresses working and long-term memory, natural information-processing principles, and biologically primary/secondary knowledge (PDF95). This is an attributed theoretical framework, not an uncontested mechanism shared by all authors. Chapter 7, **Schnotz's integrated model of text and picture comprehension**, distinguishes descriptive and depictive representations and their construction (PDF105–108), rather than merely redrawing Mayer's model. Chapter 8, **Kester and van Merriënboer's 4C/ID account**, places presentation within complex learning design (PDF122); see [Ten Steps](reference-van-merrienboer-complex.md) for task-level decisions.
 
 ## Frameworks & Structure
 
@@ -17,12 +17,15 @@ The volume moves from foundations and theories through presentation principles, 
 
 ## Decision Rules & Judgment
 
+**Attribution boundary:** source concepts and reported findings are paraphrased, not quotations. Recommendations addressed to this AI skill, hypothetical learner signals, accessibility safeguards, and delivery choices are proposed designs unless explicitly identified as a book method or case. They are not independently validated effects.
+
+
 ### Select a representation for a learning need
 
 | Need and chapter authors | Relevant principle | Conditions and signals of failure |
 |---|---|---|
 | Explain a relationship visually: 11, Mayer | Words with appropriate pictures can help more than words alone | Pictures should represent, organize, or explain; decoration is a different intervention. Prior knowledge and task matter (PDF175) |
-| Use multiple representations: 12, Ainsworth | DeFT distinguishes design, functions, and tasks; representations can complement, constrain interpretation, and support construction | Learners must understand each representation and connect them. Three adjacent diagrams do not automatically integrate (PDF180) |
+| Use multiple representations: 12, Ainsworth | This chapter uses DeFT to distinguish complementary, constraining, and constructing functions | Connecting representations may not be required for a complementary function; it is crucial for constraining and constructing functions and can require support. Three adjacent diagrams do not automatically integrate (PDF180–181, Table 12.1) |
 | Adjust to prior knowledge: 13, Kalyuga | Expertise reversal: novice support may become redundant for more knowledgeable learners | Judge task-specific knowledge rather than credentials or labels. Reversal in relative effects does not mean experts perform worse than novices in absolute terms (PDF193) |
 | Reduce irrelevant processing: 14, Fiorella and Mayer | Coherence, signaling, redundancy, spatial and temporal contiguity | Retain the boundary conditions below; simplicity must not delete necessary qualifications |
 | Integrate two necessary sources: 15, Ayres and Sweller | Split attention: separating essential information across space or time can increase integration costs | First establish that both sources are necessary. Repeating an already sufficient source is a different problem (PDF221) |
@@ -37,7 +40,7 @@ The volume moves from foundations and theories through presentation principles, 
 
 Table 14.1 (printed p195/PDF216) was checked visually. Much evidence concerns university students, short materials, and near-term tests; it does not directly establish equivalent benefits in sustained courses or AI dialogue. Listed conditions describe circumstances where effects are more likely, not a logical conjunction required in every case.
 
-- **Coherence:** low prior knowledge, limited working-memory resources, complexity, and related conditions matter. Remove irrelevant content, not necessary background or qualifications.
+- **Coherence:** low prior knowledge or working-memory capacity, complex lessons, and low-stakes learning environments are listed as conditions of greater applicability. Remove irrelevant content, not necessary background or qualifications.
 - **Signaling:** may matter more with low prior knowledge, complex material, and text–picture integration. Indiscriminate highlighting ceases to select.
 - **Redundant on-screen text with narration:** system pacing, long and fully duplicated text, and language background can affect outcomes. It does not follow that all text-plus-speech presentations are poor.
 - **Spatial contiguity:** complex material and an absence of learner-managed integration can increase the need for external support.
@@ -49,13 +52,13 @@ Table 14.1 (printed p195/PDF216) was checked visually. Much evidence concerns un
 
 Retain Chapter 30's counterexample: in a particular scientific-text study, provided pictorial summaries could support transfer better than self-generated summaries (PDF383). Producing a drawing can compete with comprehension demands. Do not require every novice to draw merely because generation can be beneficial; equally, this study does not establish that supplied pictures always outperform drawing.
 
-**32, Chi: self-explanation and ICAP.** Self-explanation generates inferences and connections rather than merely paraphrasing. ICAP's distinctions among passive, active, constructive, and interactive engagement concern cognitive activity and observable indicators. Selecting a menu explanation differs from producing one; interaction is not click frequency. See PDF405 and PDF410. Arbitrary rules or material requiring major changes of perspective can limit self-explanation's usefulness; insufficient knowledge may call for demonstration. Do not force complete verbalization or count an AI-generated explanation as the learner's construction.
+**32, Chi: self-explanation and ICAP.** Self-explanation generates inferences and connections rather than merely paraphrasing; Chi distinguishes it from a formally complete explanation intended for someone else (PDF402, printed p381). ICAP's distinctions among passive, active, constructive, and interactive engagement concern cognitive activity and observable indicators. Selecting a menu explanation differs from producing one; interaction is not click frequency. See PDF405 and PDF410. Arbitrary rules or material requiring major changes of perspective can limit self-explanation's usefulness; insufficient knowledge may call for demonstration. For this skill, not requiring complete verbalization and not counting AI-generated explanations as the learner’s construction are design constraints, not results of an AI trial in this chapter.
 
 **33, de Jong: guided inquiry.** Constraints, prompts, heuristics, scaffolds, and direct information can support different processes. Freely manipulating a simulation is not automatically effective inquiry. Associations between reported inquiry frequency and achievement do not isolate causation (PDF418). Letting a user change a meaningful condition, observe results, and develop an explanation is a proposed AI adaptation, not an established effect.
 
 **34, Johnson and Marraffino: feedback.** Explanatory feedback may help novices beyond correct/incorrect signals, but learners must process it; excessive information can add demands. Random clicking until correct can bypass learning. Connect feedback to the actual response and next action rather than issue identical praise (PDF428).
 
-**35, Scheiter: learner control.** Control of sequence, pacing, or content does not guarantee good choices. Monitoring accuracy, prior knowledge, and choice costs matter. Preference and immediate performance are not learning outcomes (PDF444). **36, Zhang and colleagues: cognitive load self-management** concerns strategies learners can use to manage presentation; do not transfer all design responsibility before they can judge the demands.
+**35, Scheiter: learner control.** Control of sequence, pacing, or content does not guarantee good choices. Monitoring accuracy, prior knowledge, and choice costs matter. Preference and immediate performance are not learning outcomes (PDF444). **36, Zhang and colleagues: cognitive load self-management** concerns explicitly teaching learners to manage poorly designed materials; the chapter focuses especially on split attention and spatial contiguity (PDF451). The skill’s adaptation is to teach those strategies before transferring responsibility, not to infer that unguided choice suffices.
 
 ## Worked Example: choosing SVG or HTML
 
@@ -70,7 +73,7 @@ The following is an **original, unvalidated skill design**, not a tested procedu
 
 ## Assessment, multiple sources, and media limits
 
-**43, McCrudden and Van Meter: visual displays** should be evaluated against goals, display structure, and learner processing rather than beauty or realism. **44, Rouet and Britt: multiple-document learning** involves sources, document relationships, and task demands rather than concatenating conclusions. Preserve attribution and evidence when sources conflict; cross-source synthesis is not a shared author claim.
+**43, McCrudden and Van Meter:** the chapter focuses on annotated visual displays, including spatial layouts without pictures, and their processing and instructional design (PDF531). This skill judges them by the learning goal, not beauty alone. **44, Rouet and Britt:** the chapter treats comprehension of multiple written documents and their sources and relationships; it explicitly brackets broader media effects, internet search/navigation, and long-term retention and transfer (PDF542). Preserve attribution and evidence when sources conflict; cross-source synthesis is not a shared author claim.
 
 **46, Lindner: multimedia assessment.** A test diagram may facilitate access or supply the relationship that learners were meant to construct, thereby changing the assessed construct. Higher scores need not mean more learning. Identify the target and what assistance provides (PDF583). This limits success messages and transfer claims in learning interfaces.
 
@@ -118,14 +121,14 @@ The map preserves all chapter authors and topics. Detailed methods above derive 
 | 34 | Cheryl I. Johnson; Matthew D. Marraffino | Feedback; priority |
 | 35 | Katharina Scheiter | Learner control; priority |
 | 36 | Shirong Zhang; Björn de Koning; Shirley Agostinho; Sharon Tindall-Ford; Paul Chandler; Fred Paas | Cognitive load self-management; strategy entry |
-| 37 | Kenneth R. Koedinger; Vincent Aleven | Cognitive tutors; entry, not evidence for generative AI |
+| 37 | Kenneth Koedinger; Vincent Aleven | Cognitive tutors; entry, not evidence for generative AI |
 | 38 | Fuxing Wang; Wenjing Li; Tingting Zhao | Pedagogical agents; entry, an agent image is not evidence of learning |
 | 39 | Susanne P. Lajoie | Simulations; entry, no professional certification protocol developed |
 | 40 | Richard E. Mayer | Games; entry, not a complete game-design specification |
 | 41 | Logan Fiorella | Video; entry, return to chapter as needed |
 | 42 | Jocelyn Parong | Virtual and mixed reality; entry, no device implementation in this task |
 | 43 | Matthew T. McCrudden; Peggy N. Van Meter | Visual displays; goal relevance |
-| 44 | Jean-François Rouet; M. Anne Britt | Multiple documents; source and task |
+| 44 | Jean-François Rouet; Anne Britt | Multiple documents; source and task |
 | 45 | Ruth Colvin Clark | E-courses; aligned practice and feedback |
 | 46 | Marlit Annalena Lindner | Multimedia assessment; cues and measured constructs |
 

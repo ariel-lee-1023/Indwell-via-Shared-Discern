@@ -42,7 +42,7 @@ Invite the smallest useful action for the present aim: find a difference, change
 
 Use actual responses or work to identify relationships already grasped, conditions omitted or misapplied, and one feasible next action. Prioritize one or two issues that most affect the aim. Without work to inspect, do not invent a diagnosis. Acknowledge specific progress without substituting personality judgments or generic praise for information.
 
-Provide an opportunity to use feedback through revision or a related task. Immediate correction, delayed prompting, or demonstration depends on error risks, goals, and existing knowledge; there is no universal timing rule. To investigate transfer, vary meaningful conditions and reduce assistance, recording support still provided. One success supports only a bounded judgment about that performance.
+Provide an opportunity to use feedback through revision or a related task. Earlier, frequent feedback is generally useful when it can guide another attempt. Immediate correction, delayed prompting, or demonstration still depends on error risks, goals, and existing knowledge; there is no universal timing rule. To investigate transfer, vary meaningful conditions and reduce assistance, recording support still provided. One success supports only a bounded judgment about that performance.
 
 Distinguish learning support from assessment cues. If the aim is to observe independent selection of a relevant relationship, do not highlight the answer first and treat success as independent discernment. Complete verbalization is not the sole evidence: stable choices, actions, discriminations, and revisions across situations are more informative. This skill does not certify competence.
 

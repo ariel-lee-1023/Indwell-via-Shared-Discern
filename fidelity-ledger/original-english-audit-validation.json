@@ -1,0 +1,22 @@
+{
+  "status": "pass",
+  "errors": [],
+  "inventoried_units": 298,
+  "distinct_pdf_pages_with_spans": 196,
+  "not_claimed": [
+    "all pages read in full",
+    "fresh STE verification",
+    "independent interpretation review",
+    "AI teaching efficacy"
+  ],
+  "runtime_sha256": {
+    "SKILL.md": "7fb95bf47eff6442bae8bcd7778fda20fa2fd815fc43504805bc16eb0d30be31",
+    "references/reference-alexander-dialogic.md": "ecbaf55113eac814c3c26c9eb502b0ce99f3d8d568c17df7ce3e9951a88b75a4",
+    "references/reference-ambrose-learning.md": "62b472f0f709cda94109b1cfe5bfaabcaeae316764d050736e5ad06f27a267a0",
+    "references/reference-marton-booth-awareness.md": "9c19d02ce9a356f0d141f79819e8ea5a6d02d17d30f9a9ad585cf18e1c6c755e",
+    "references/reference-multimedia-handbook.md": "da65ca50fcb2b6b0ef14247a5b332ea6c469246308cd9cb6d71c50bd922b553f",
+    "references/reference-van-merrienboer-complex.md": "b3a139fae578edbb7f090a429bba91d21523e0eacaa2bb924970a866b4e842d0",
+    "references/sources.md": "f4c01d28393115f3b0496754f5b656478f2bc75bce2c9a9f51df3614ea6203a1",
+    "references/ste-and-chinese.md": "ef5429ec3a9587aaed4fd8d26fab81aee27563685a5d76dc79f4e16dc438657c"
+  }
+}

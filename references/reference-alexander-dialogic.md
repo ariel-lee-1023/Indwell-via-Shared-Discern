@@ -9,7 +9,7 @@ Robin Alexander, 2020. Based on the supplied Markdown and original PDF. L denote
 
 ## Frameworks & Structure
 
-The nine chapters are Prologue; Talk for learning; Versions of dialogue; Dialogue in other words; Grand dichotomy; Ingredient x; Frameworks and fundamentals; Professional development; Epilogue. The first six examine talk, versions of dialogue, instructional dichotomies, research, and practice. Chapter 7 develops the framework and repertoires; Chapter 8 addresses professional development. The framework comprises definitions, stance, justifications, principles, repertoires, and indicators (L1500–1525). It concerns social relations, learner voice, and public life as well as cognition and instruction; it cannot be reduced to question stems.
+The nine chapters are Prologue; Talk for learning; Versions of dialogue; Dialogue in other words; Grand dichotomy; Ingredient x; Frameworks and fundamentals; Professional development; Epilogue. The first six examine talk, versions of dialogue, instructional dichotomies, research, and practice. Chapter 7 develops the framework and repertoires; Chapter 8 addresses professional development. Its six constitutive segments are definitions, stance, justifications, principles, repertoires, and indicators; three explanatory sections precede them, making nine sections in the chapter framework (PDF137–138, printed pp126–127; L1500–1525). It concerns social relations, learner voice, and public life as well as cognition and instruction; it cannot be reduced to question stems.
 
 ### Six mutually constraining principles
 
@@ -28,11 +28,14 @@ Alexander's cumulative principle is not uncritical accumulation. His discussion 
 
 ## Decision Rules & Judgment
 
-Chapter 7 distinguishes frames, forms, and acts of interaction, addressing classroom routines, organizational settings, teaching and learning talk, questions, responses, discussion, and argument. The outline retains rote, recitation, instruction, exposition, discussion, deliberation, argumentation, and dialogue as distinct repertoires (L2921–2931). Select and coordinate them by purpose rather than declaring one permanently wrong.
+**Attribution boundary:** source concepts and reported findings are paraphrased, not quotations. Recommendations addressed to this AI skill, hypothetical learner signals, accessibility safeguards, and delivery choices are proposed designs unless explicitly identified as a book method or case. They are not independently validated effects.
+
+
+Chapter 7 groups eight repertoires under culture and organization, patterns of exchange, and transaction to move (PDF147, printed p136). They address interactive culture, organizational settings, learning talk, teaching talk, questioning, extending, discussing, and arguing. Within the teaching-talk repertoire, rote, recitation, instruction, exposition, discussion, deliberation, argumentation, and dialogue are distinct options (PDF156, printed p145; L2921–2931). Select and coordinate them by purpose rather than declaring one permanently wrong.
 
 **Uptake matters, not only whether a question is open.** A teacher's third turn can merely judge and close an exchange, or invite clarification, grounds, comparison, and revision. A checking question with a known answer can be useful; an irrelevant open question can fail to advance understanding. Locations: L1820–1860, L1920–1958.
 
-Chapter 7 draws on Michaels and O'Connor's four goals and nine talk moves: think time; say more; revoice with confirmation; rephrase another contribution; ask for evidence or reasoning; challenge or counterexample; agree/disagree and explain why; add on; explain another person's meaning. Preserve their attribution. These serve dialogic purposes rather than prescribing a sequence of questions. AI should not invent a second learner to perform the user's contribution to joint reasoning.
+Chapter 7 draws on Michaels and O'Connor (PDF162–164, printed pp151–153). Their four goals are to help learners share, expand, and clarify their own thinking; listen carefully to others; deepen their reasoning; and think with others. The nine moves, grouped under those goals (3, 1, 2, and 3 respectively), are: think time; say more; revoice with confirmation; rephrase another contribution; ask for evidence or reasoning; challenge or counterexample; agree/disagree and explain why; add on; explain another person's meaning. Preserve their attribution. These serve dialogic purposes rather than prescribing a sequence of questions. AI should not invent a second learner to perform the user's contribution to joint reasoning.
 
 | Observed situation | Possible move | Signal to adjust |
 |---|---|---|
@@ -52,7 +55,7 @@ If the learner objects that their system checks content before generation, ackno
 
 ## Social context and evidence limits
 
-The book connects a supportive environment, participation, epistemic responsibility, and voice. Chapter 7 addresses social and epistemic norms (L1990–2030), learner-initiated talk, and conditions requiring modelling (L2090–2120). Silence is not proof of absent thought, and speech frequency alone is not a quality measure.
+The book connects a supportive environment, participation, epistemic responsibility, and voice. Chapter 7 discusses social and epistemic norms, including Resnick, Michaels, and O’Connor’s accountability to the learning community, reasoning, and knowledge (PDF167, printed p156; L1990–2030), learner-initiated talk, and conditions requiring modelling (L2090–2120). Silence is not proof of absent thought, and speech frequency alone is not a quality measure.
 
 Chapter 4 examines dialogue, argument, and deliberation in other fields. Drawing on Walton, it distinguishes inquiry, negotiation, information-seeking, deliberation, and related purposes from eristic argument aimed at winning (L750–775). The relevant standard concerns reasons and shared facts that withstand examination; not every exchange should become a debate. This reference does not expand the political or philosophical material.
 

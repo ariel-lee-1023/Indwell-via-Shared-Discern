@@ -1,0 +1,1732 @@
+[
+  {
+    "source": "awareness",
+    "pdf_page": 29,
+    "start": 0,
+    "end": 2588,
+    "sha256": "c52a5564d66ca2708a90711799bcd7dba96180813bbde0e7a40133726c65a1b6",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "awareness",
+    "pdf_page": 49,
+    "start": 0,
+    "end": 2136,
+    "sha256": "9cd04a3b7841d1527921308d9e849c75eec1992448c092a6df9d84d23781e267",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "awareness",
+    "pdf_page": 101,
+    "start": 0,
+    "end": 3405,
+    "sha256": "ce92f4912b56b131713effc63255626599a9b4d859c99c96e095c707ea1085a3",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "awareness",
+    "pdf_page": 110,
+    "start": 0,
+    "end": 3588,
+    "sha256": "5308cb1eaea1556b7bc8c86f611730293683a927208582b82adee76c911c4939",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "awareness",
+    "pdf_page": 124,
+    "start": 0,
+    "end": 3725,
+    "sha256": "044287ce6d327b7a7c6f95ea03f257fa59ef7452c15e73e41f86b1898995d697",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "awareness",
+    "pdf_page": 139,
+    "start": 0,
+    "end": 3801,
+    "sha256": "23cd70c9ec3e79afd48f13c3d44517a310df263b7a2df1d38fa5c6f0c991934a",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "awareness",
+    "pdf_page": 142,
+    "start": 0,
+    "end": 3902,
+    "sha256": "84be8c588aa4f95b0b08ff2667c4981840fce7f6f0d223d3090735b2863b505d",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "awareness",
+    "pdf_page": 48,
+    "start": 0,
+    "end": 2314,
+    "sha256": "a74215c09b8d5b5a795b18854cfcbb030acdb2437246a7b5db966105f30d88c7",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "awareness",
+    "pdf_page": 97,
+    "start": 0,
+    "end": 2155,
+    "sha256": "0deaa7380028901c805a395f9d9f2924472874a2bc9df7712a1b93b6d1b88136",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "awareness",
+    "pdf_page": 141,
+    "start": 0,
+    "end": 3746,
+    "sha256": "a4c3e1c0d52a2d6e2e7a9d5603ddda5d000b59894c1863707039a895276f8d80",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "awareness",
+    "pdf_page": 154,
+    "start": 0,
+    "end": 3928,
+    "sha256": "7d8d878ce45dc68f697572c226e3cf2d63e3d810575e85d6a37b6b584ae8f871",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "awareness",
+    "pdf_page": 174,
+    "start": 0,
+    "end": 3289,
+    "sha256": "c324a542abcde8e9d8d21000d851da41e8273df8619bf7cc2672bb2923b9781c",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "awareness",
+    "pdf_page": 181,
+    "start": 0,
+    "end": 2392,
+    "sha256": "ff955bb1dee6df6971de65ca30eb637e7b80e53e4a15df38d8576ba7eb925ce7",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "awareness",
+    "pdf_page": 204,
+    "start": 0,
+    "end": 3656,
+    "sha256": "1045df8771a9af022c813db7cc126b4d3c0e79882ef401803bc499999a9569c8",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "awareness",
+    "pdf_page": 216,
+    "start": 0,
+    "end": 3301,
+    "sha256": "feca78731322a8b890929013ac6bf3f84712b5cd07bb9f0bffd1478d4b603724",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "awareness",
+    "pdf_page": 222,
+    "start": 0,
+    "end": 2242,
+    "sha256": "9b3b816514eb5da1cc75230a5d29729bc77720d5255101945fedfb2f5b671c10",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "awareness",
+    "pdf_page": 223,
+    "start": 0,
+    "end": 3795,
+    "sha256": "a90c8e8a2146d3cd9f6fd5e9ea06e26e9e9990f9f01b8c336f61854aad481507",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 142,
+    "start": 0,
+    "end": 1582,
+    "query": "six principles",
+    "sha256": "a0b335355646250be46009e3792ba313a3991fe17b6ab473fbc6b6b36a8f19b2",
+    "purpose": "direct English claim verification, bounded context"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 143,
+    "start": 2907,
+    "end": 3403,
+    "query": "six principles",
+    "sha256": "cf6f35c1f9627278df7f8a15989f68fd8ee4b793316dcc9efdebc5b4f1d532d2",
+    "purpose": "direct English claim verification, bounded context"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 19,
+    "start": 1365,
+    "end": 2995,
+    "query": "collective.*",
+    "sha256": "a8232809fa6e279a1d7b7ab2517ec8edf52d894dba015b9fb87324657c50464b",
+    "purpose": "direct English claim verification, bounded context"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 25,
+    "start": 2932,
+    "end": 3380,
+    "query": "collective.*",
+    "sha256": "238d7c4cd1000fd3c2d6481c951e3be65bd3c6865a6d9dd04fcad2a9b8a05bdc",
+    "purpose": "direct English claim verification, bounded context"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 43,
+    "start": 1791,
+    "end": 2211,
+    "query": "Michaels and O",
+    "sha256": "44faa3a7a64fcdc5b7a839abbac015611d4a98a71b6858952d67e2283e9d5419",
+    "purpose": "direct English claim verification, bounded context"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 62,
+    "start": 622,
+    "end": 2436,
+    "query": "Michaels and O",
+    "sha256": "bdc58b508fe55f9eb3a67c018ad8f1ed7a98d0a3b6f54288bf1418f00bd0a819",
+    "purpose": "direct English claim verification, bounded context"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 163,
+    "start": 0,
+    "end": 1624,
+    "query": "nine moves",
+    "sha256": "16774c5307c98c582ad838684129b33887a37ce52d9c8edc7d56bdd7595cbbb0",
+    "purpose": "direct English claim verification, bounded context"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 119,
+    "start": 834,
+    "end": 2644,
+    "query": "third turn",
+    "sha256": "b2f5ef6d1f18cad6cca255f843e11ff12f4badf70be885ef82dc3a58eae8acf0",
+    "purpose": "direct English claim verification, bounded context"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 125,
+    "start": 1611,
+    "end": 3042,
+    "query": "third turn",
+    "sha256": "9fa215722ab4090f8481bc090b7aace24b1f39c76cd7205391a0b942ad9d620d",
+    "purpose": "direct English claim verification, bounded context"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 136,
+    "start": 0,
+    "end": 3384,
+    "sha256": "9d2618a7f8e453dd0aa44e2b4b685b4e3d7ac73e6e2b357d52c5e0543ace7616",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 140,
+    "start": 0,
+    "end": 2863,
+    "sha256": "e20c681120cd8316ae49c1346e5ea4b78b2eb8d733273535c6f31b8642555771",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 143,
+    "start": 0,
+    "end": 3403,
+    "sha256": "73dcd25a288fed28d11dd5e62c7032ace2cd549fd444f9609800d3b202bc5190",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 144,
+    "start": 0,
+    "end": 3033,
+    "sha256": "3bf08aedb811524f128221e2ad3ebe39517c1526ef231931551f6c69de965628",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 145,
+    "start": 0,
+    "end": 3043,
+    "sha256": "68b8984c6e5f4fb475be53e209bce81a54523244149c63a3b97283d7dde4ce05",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 161,
+    "start": 0,
+    "end": 3057,
+    "sha256": "44b00a535d72d94a5fdf7e9ed10bea433a95b4188ffb964d4c25970da09848e6",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 162,
+    "start": 0,
+    "end": 3280,
+    "sha256": "51d4c6164e8c93f34a9ce36bc514294ab33db4de03a2546c2a35b7d18618ffca",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 163,
+    "start": 0,
+    "end": 2439,
+    "sha256": "9b02fdd97c574a0808d93b4cca98c17639f039cdff853d2ab5d0552adf46c88d",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 164,
+    "start": 0,
+    "end": 2923,
+    "sha256": "8db8c260c344530f250c4af9328b74134d5ea17604341f518a89ec4243e1dbe4",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 180,
+    "start": 0,
+    "end": 2354,
+    "sha256": "9538f2c10351edd339498fdfce21e8038f4e29f5667a25ea983976bb93d348d4",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 185,
+    "start": 0,
+    "end": 2877,
+    "sha256": "2486fd594e70dd6915af53e6f69f594a894714dc0ebfb6a9d018db05d60078ee",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 195,
+    "start": 0,
+    "end": 1952,
+    "sha256": "eb032324e851a5902cabd6c3d5dee901c8592d66fab63ea33b283c5b79a5e1c9",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 76,
+    "start": 0,
+    "end": 3121,
+    "sha256": "31502301ab12fc89a17b0f18a749c519879bc2407738b002598131d32937e5f5",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 137,
+    "start": 0,
+    "end": 2473,
+    "sha256": "1be9dd2fae6730b372f2c978729ea5b22adac76df1c9930473e14fef57af2682",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 138,
+    "start": 0,
+    "end": 2693,
+    "sha256": "590141f3ffe2d26fe5fe8122bbc989afab1a52e4ff0034bbece145c87521886a",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 147,
+    "start": 0,
+    "end": 3053,
+    "sha256": "40f96758635288bcb6b734bcca783631a4c9d791606d8a74d184a003260c8b2b",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 153,
+    "start": 0,
+    "end": 2698,
+    "sha256": "4ac589c8b5b3dfe700bc453c4c6fe49f3dc046b575ea870fdc68c82ed239a519",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 165,
+    "start": 0,
+    "end": 3217,
+    "sha256": "169965271a3bb2091a908903d3bd3fa75acc241dbb582227efb0bf433fd35162",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 169,
+    "start": 0,
+    "end": 1430,
+    "sha256": "50565b8b4dc5869631bcf5dd8ca11c5483e6e453adee0c7074570433c5f47e2e",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 186,
+    "start": 0,
+    "end": 3097,
+    "sha256": "9a8c14a428ee6789831c9556eb54feaebd030add0acc1a237497837b8ae8c4ff",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 75,
+    "start": 0,
+    "end": 2796,
+    "sha256": "5bca775f3128e4f9030c46d500747e0b5d24bc62f39f29bf735d839bc32e9710",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 38,
+    "start": 0,
+    "end": 1877,
+    "sha256": "678c91ebd6c83e6757a4f981514e4740031eacb4b9fdbf40d27abfc322773279",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 39,
+    "start": 0,
+    "end": 1937,
+    "sha256": "1b571c47845264166a7be0ff496af8870041be14a7279b1e9ea7d39d1ba0c6e8",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 73,
+    "start": 0,
+    "end": 2198,
+    "sha256": "d8bcf6e85cf8e0b8bbc2244939100ecacbb1b8bfc0f6284728479612ddf73286",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 91,
+    "start": 0,
+    "end": 1176,
+    "sha256": "4b35fc446cc2b7df39c5f635b7dc9b88f11ed3b400371f6e2598977fba0a2f93",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 96,
+    "start": 0,
+    "end": 918,
+    "sha256": "9acff81346e6df82fd44c42e76a80076f8da5a08a1f5a5c8b954ebdc605f30ce",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 97,
+    "start": 0,
+    "end": 2184,
+    "sha256": "6432d54e637a91ff5ffc4cefb3e5f86982673fbea7bcbc31071c44ee1ee641dd",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 115,
+    "start": 0,
+    "end": 1810,
+    "sha256": "743f66d030a4460ef699585f991b36331f6856dabaa496719ea94bc41f12b82b",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 122,
+    "start": 0,
+    "end": 1106,
+    "sha256": "334bd4675862badf956a0a35725b3fd1ddcc63cc385a8559d6c7e8c7eec782cc",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 133,
+    "start": 0,
+    "end": 1907,
+    "sha256": "e5ad357111fc2f352a0c80d638ccff88feabc9c4ace677464c674ac89d7f5837",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 146,
+    "start": 0,
+    "end": 1626,
+    "sha256": "9f84ac346be9c4646d8460b9d683ce0e58762dca2bf65c8dd41b85441b9a6b15",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 50,
+    "start": 0,
+    "end": 2103,
+    "sha256": "2935989bde75f360d4a3ff5ce411442d79d414d70877ba5494d16b047c0f1255",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 51,
+    "start": 0,
+    "end": 2138,
+    "sha256": "547143f11a186fce2303704b2200eb5a00c0058af0034c9fbeb1f295a15222d6",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 147,
+    "start": 0,
+    "end": 1325,
+    "sha256": "32def0d631457b5bb37c1b1cf9609b512cc361d6d1dbd0d70515deece2fd8b77",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 148,
+    "start": 0,
+    "end": 1742,
+    "sha256": "693a32f58a7e255f788b40cec454c43e418445dfe62e36b71eb216a1a6c83d2d",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 167,
+    "start": 0,
+    "end": 2088,
+    "sha256": "e57ee0c874ef607ce4d20bd662632d37471ea211765008b6bb151e06a5451a31",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 168,
+    "start": 0,
+    "end": 1912,
+    "sha256": "917625195e6fc2a2d36588477a1be02e534dbd414d9dff3ba351558603bc72b2",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 178,
+    "start": 0,
+    "end": 1785,
+    "sha256": "dbef90ca820a238fffcdf15933b2f63357c39977233321960a1e9fbc8626a0df",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 198,
+    "start": 0,
+    "end": 2030,
+    "sha256": "c1903958d7d7e74e9e2d7762155717865a5b85645cd7c475e32ef869aa0201f7",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 213,
+    "start": 0,
+    "end": 1015,
+    "sha256": "244b6a71c70140a47469efdeeb5f146042fad6dd9c2c817ea90edbc2b473cf9d",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 242,
+    "start": 0,
+    "end": 942,
+    "sha256": "0f27d73647b258855c9799aad40fd6fc2af91683ff6ca827b7ecd34b9f92ec79",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 278,
+    "start": 0,
+    "end": 1862,
+    "sha256": "2c933a303d5063ba3032ff26b8157d11b951ef954c0a095d1007e3bbd7987c72",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 9,
+    "start": 0,
+    "end": 1162,
+    "sha256": "d0f858d234d2c59b7474892ab40234f6ae50d548b6841b0114c796a67cdbaf51",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 31,
+    "start": 0,
+    "end": 2907,
+    "sha256": "3059d9ba6e185f7e562aa69963f65e383c4332b32743dba0e329add7304ec7a2",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 32,
+    "start": 0,
+    "end": 1608,
+    "sha256": "0ef9f57e89f6f977245691b1bd8e5c8fb1bf5bbf35fcd7afc69edb9179482447",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 42,
+    "start": 0,
+    "end": 2433,
+    "sha256": "44f4b6ddd85573021fe513e5bce8933ec94dff48396035e1560b8f2de953f210",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 61,
+    "start": 0,
+    "end": 3155,
+    "sha256": "5a2959c9dff39915d24de360fdc4698ba8df66e30d3f1a6105447cf5bf50f0a6",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 62,
+    "start": 0,
+    "end": 1504,
+    "sha256": "0fa7264835ae8e6e453db422f5dfed9512c1c4ceefd7c1eebbba64db110ee46a",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 63,
+    "start": 0,
+    "end": 3402,
+    "sha256": "36bf157ae860e12fec30cea563f8e7e36529c1ad895df8bfd7debdb1c9af890d",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 75,
+    "start": 0,
+    "end": 2852,
+    "sha256": "d0bf17651678f0366e538465982b4eaf321a6d4b7b807ebd237c793196d6fc51",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 105,
+    "start": 0,
+    "end": 3129,
+    "sha256": "986be5ea76920d23dd956ae612f1537ba2725217979aa1bd6fa72ddd7971972e",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 111,
+    "start": 0,
+    "end": 3315,
+    "sha256": "f35f04b12bca37295e8120465584c7038be15ee7101818889996f46147b62b32",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 132,
+    "start": 0,
+    "end": 3326,
+    "sha256": "c73ffbee338e43c947d8f8c34f7a44f48f9a47d706667b7ef505d139d1d04f2a",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 141,
+    "start": 0,
+    "end": 3055,
+    "sha256": "0bd4a9f60358dc6241e94d774b6e019b2056c5aec327bb14602aa6404e226473",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 155,
+    "start": 0,
+    "end": 3306,
+    "sha256": "e67ec2d34fa4b1222bb4bf9b572e3c6acae04121273f3aa51f49729a749bb9ba",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 173,
+    "start": 0,
+    "end": 2864,
+    "sha256": "c0c1b17db434ae38161b0cff97093edff010dc806e9d2fbd071992110676bc3c",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 186,
+    "start": 0,
+    "end": 2972,
+    "sha256": "0ef504d840199c79597dea082ed2fcb66429111247638badbd886f37026377f3",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 198,
+    "start": 0,
+    "end": 2884,
+    "sha256": "fd35ef6dab7312decca3f3273116a1d3d4d137ec725d92bc2851a16045a43566",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 205,
+    "start": 0,
+    "end": 3048,
+    "sha256": "c0ce65f9ab57e8b128946396e3505a1d52b66e18684a08405e490846e6f8a86b",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 217,
+    "start": 0,
+    "end": 2886,
+    "sha256": "fec314f0360c34a1d546baaa1a790b674c607dd43aa854a54008c8d43c7ca860",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 218,
+    "start": 0,
+    "end": 3043,
+    "sha256": "bddfe48ba2fac6bef7c4be87e039aae5cd33ea1b7d29de7fc4c487fc6059952a",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 235,
+    "start": 0,
+    "end": 3082,
+    "sha256": "f51797bdc8e85d339cea69a577510883d9d0c9e41da50eaa1fc86069cdb940f1",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 236,
+    "start": 0,
+    "end": 2886,
+    "sha256": "144ed9da5f3ddb38eee009008af5716ac15472ad4eb538b6673a447f3dda0a21",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 263,
+    "start": 0,
+    "end": 2964,
+    "sha256": "2979a7256b0ffb429aaf0fa9dca0e758286f09ae9a9a3b99244f26639b77e847",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 277,
+    "start": 0,
+    "end": 3072,
+    "sha256": "b5d5e8d208428cb4c01f92f18b160a6d3055fb317aabf2a1f15cf009d80ba8a2",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 291,
+    "start": 0,
+    "end": 3149,
+    "sha256": "669fee28be5f8d57a3e9f13285ff03ac7bc79bead5bf2274f51f2ac90ba395f8",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 300,
+    "start": 0,
+    "end": 2298,
+    "sha256": "85c0190c848de5f116b06c641b81341898d0945f7ec94a928e2f840167c3933d",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 315,
+    "start": 0,
+    "end": 3276,
+    "sha256": "ec3acf288bbf01793ce910fe5ceca92b0b9f30bd62ca490406439213450c4c44",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 337,
+    "start": 0,
+    "end": 3177,
+    "sha256": "f1f2bdce6d27a5b758cc4c6ae905eb1d1a655899579969561ca0e71b3e2a61ee",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 339,
+    "start": 0,
+    "end": 1246,
+    "sha256": "32d3346ab3440e58273de23a1e5118c0c595abd505d4cb23f84ef2ae4ec2ef97",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 355,
+    "start": 0,
+    "end": 2562,
+    "sha256": "5063f2b1e6b94af71e4cc136b3d67fc8763ed5f16239f10a91fa6dd347024939",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 361,
+    "start": 0,
+    "end": 743,
+    "sha256": "29fc0bee9e54f1166197e5c93a20287769bf97b49f9680e3ae201e42b564e29b",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 181,
+    "start": 2580,
+    "end": 3035,
+    "query": "generative",
+    "sha256": "ec8a49c0b33a17c40ca42375d7ec56ceaa64e6512797fa50b4dd3b86c3e8f29c",
+    "purpose": "direct English claim verification, bounded context"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 182,
+    "start": 578,
+    "end": 2388,
+    "query": "generative",
+    "sha256": "5a7fb4944728673660231450b76333d6a8ee23d923bb5a4e23d75f5f1bc25eaf",
+    "purpose": "direct English claim verification, bounded context"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 151,
+    "start": 482,
+    "end": 1590,
+    "query": "artificial intelligence",
+    "sha256": "9a3e1b44fbfab214461b878e81b2305149b5e094909f71cca339cf843b6a7bf5",
+    "purpose": "direct English claim verification, bounded context"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 200,
+    "start": 1546,
+    "end": 2460,
+    "query": "artificial intelligence",
+    "sha256": "c16bb90a94ac0f28bf98c1caa7d204ec9248ee2eb8dae057ba108306b2a36444",
+    "purpose": "direct English claim verification, bounded context"
+  },
+  {
+    "source": "awareness",
+    "pdf_page": 155,
+    "start": 0,
+    "end": 3610,
+    "sha256": "d9dd6af68109310dc5a428bb36630c7b38da9867f1c2af9462ed759b2c14d7f1",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "awareness",
+    "pdf_page": 224,
+    "start": 0,
+    "end": 3641,
+    "sha256": "c063d8c260bf402ee26cf14c1409355ff9fca1d5cc63fd09376996e52aeaa8f7",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 10,
+    "start": 0,
+    "end": 1042,
+    "sha256": "f01295570c0973ca553cfa115d045761d33b5d8a8bba0d030e86974712f72635",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 197,
+    "start": 0,
+    "end": 2192,
+    "sha256": "4965567d72766816605d23afaba9fe587e107b908e1621d281b5c286cee2e004",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "awareness",
+    "pdf_page": 41,
+    "start": 0,
+    "end": 3689,
+    "sha256": "2d05f965e8266b5629f600aaa24f8a423bb9e799f99ebfa4d717612484900ec2",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "awareness",
+    "pdf_page": 225,
+    "start": 0,
+    "end": 3877,
+    "sha256": "9cb8baa7bb0d3bdab23c4b1fbd1fe489e468b6be4fc3628f40228c6ccfa9399a",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 24,
+    "start": 0,
+    "end": 650,
+    "sha256": "a3a7cc52b8d70bf5cad9da6932b2b91ac5859e662d63a8b6ab06a3442004f038",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 38,
+    "start": 0,
+    "end": 650,
+    "sha256": "d1ca9760373598f05cc2f33875aa29c230aa0f7ea03508afc0d3146b84796e5e",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 46,
+    "start": 0,
+    "end": 650,
+    "sha256": "9ce691ddb6926f33630924093a2a746fb51cdef2c152de1d228ec353da7507ab",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 62,
+    "start": 0,
+    "end": 650,
+    "sha256": "2d9bb3d105ac473a460a412b46e002f148612564c17b27fe058e3a25413bf95a",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 78,
+    "start": 0,
+    "end": 650,
+    "sha256": "72654d657b652e91f3d2131a95c3117e3bb2d16c639f4d424ade0bff735ec8c8",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 94,
+    "start": 0,
+    "end": 650,
+    "sha256": "a5b7298aba15dd016858679d7dfd6b714355db5a64c1992e216731841477f048",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 103,
+    "start": 0,
+    "end": 650,
+    "sha256": "d1f534a1c013cb751c82052e40fd9d15f3d36e68544db7df7653a0a172a537ed",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 121,
+    "start": 0,
+    "end": 650,
+    "sha256": "57a596602ab64d4765a36955d8995c7a2bb73c939ae10b1c45abc6b1ab330b8e",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 142,
+    "start": 0,
+    "end": 650,
+    "sha256": "83385cbc3f328ca707a8469bbdbdabdfa83de1aae5a6403ae9e022970782ffba",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 153,
+    "start": 0,
+    "end": 650,
+    "sha256": "ac34ce235e8b794a355ab993617f3319389904a11960e8d6e9cb279ddc9b38a0",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 166,
+    "start": 0,
+    "end": 650,
+    "sha256": "cf12a2b41333d184e66546a10805e4beaafabac521096edc2b489af0b34ce0bf",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 179,
+    "start": 0,
+    "end": 650,
+    "sha256": "d034ac53909d89d3de20652586842f73cf2a549a44bf199d2cd78afd86594837",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 192,
+    "start": 0,
+    "end": 650,
+    "sha256": "ef521810baa6abaa10639c97cf9b5f715d20b899f04d56a4ad9393f9bfe76afb",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 206,
+    "start": 0,
+    "end": 650,
+    "sha256": "a7c01210d1a7baeef1570a74a820c58e6760006ebd26412733dc6807d3752faf",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 220,
+    "start": 0,
+    "end": 650,
+    "sha256": "d73a9038944e098452ec2f53c7371963b789ef27a7b10b06c9eb78c79af36507",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 233,
+    "start": 0,
+    "end": 650,
+    "sha256": "f1a4e419e8a05be461b51c9658bdb6a76118315dfd6d7ba6a6309b54fafeb23a",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 242,
+    "start": 0,
+    "end": 650,
+    "sha256": "0bfe98fbc81853d960aeffd209dd9a2b296d0a613360ba2e1d5390a66f90719b",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 252,
+    "start": 0,
+    "end": 650,
+    "sha256": "69e3b29a07a62b35d785a62487dfeb0625ab2381c707aaa661880acf34774dff",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 264,
+    "start": 0,
+    "end": 650,
+    "sha256": "9baf17a5eccccb452fd4d5cb5029cfe21ab6147eca25122496a61f65b80f6763",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 282,
+    "start": 0,
+    "end": 650,
+    "sha256": "79d8e7aac50829d0fb74b09c54bcf2bcba115dc007ff5b59e9936a28b37104da",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 289,
+    "start": 0,
+    "end": 650,
+    "sha256": "50443c1ff5c92f60f844e09164fd016d82ce693f4851f2b49d5f55dd03a5fc08",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 298,
+    "start": 0,
+    "end": 650,
+    "sha256": "c1d00d9b3c3ef094a8f1cfd04012cf23f032678fcdbf15edb538de7b3fece6d3",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 307,
+    "start": 0,
+    "end": 650,
+    "sha256": "b0be910c31725b42c98b0834b3848ff8b0f238f4417aa52a6477f9f9a3e2d5e5",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 317,
+    "start": 0,
+    "end": 650,
+    "sha256": "dba963e49d0491fd77f741aa08f7c1101a5f3d2271e6e7fe219deba64e8204ee",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 325,
+    "start": 0,
+    "end": 650,
+    "sha256": "de82899e3cad83e77a791a3ac26e4f871254256dc4f647003d015773d3ae86e8",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 334,
+    "start": 0,
+    "end": 650,
+    "sha256": "c5177faa18bd4a4f441912249f2687c173816225e5eccf14135df718252f1b23",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 345,
+    "start": 0,
+    "end": 650,
+    "sha256": "a2712b4783509760cb6f24378d8d99a63490b60e2aa49e9359b21a19575485a1",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 360,
+    "start": 0,
+    "end": 650,
+    "sha256": "258a1141a0d9bbeb03804b0de333f3f1c12f69ea60dfd815659846a1cfdecbe4",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 372,
+    "start": 0,
+    "end": 650,
+    "sha256": "c67053734eb42cb0ec11c1b1936fbf36b062cf8f8d98ebe2c471597a3df13678",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 381,
+    "start": 0,
+    "end": 650,
+    "sha256": "f110060b834dd5f8d1e075ba11c1483d342ea76af14c7c24b855c1f530ed17ae",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 391,
+    "start": 0,
+    "end": 650,
+    "sha256": "2cca9cac9a99a0a3e7bc85ffc2e35557d224b53e4a854f4bdd6fbe2d8f99b5cf",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 402,
+    "start": 0,
+    "end": 650,
+    "sha256": "d6727cd6d4cbfc39f11d10352528aae7d57c4026e971db38763a398e4b98a8ce",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 415,
+    "start": 0,
+    "end": 650,
+    "sha256": "f19a5ff6c0b33c4baefbbcd88ace43ef3313be6c209faa2db479b37ac3c79710",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 424,
+    "start": 0,
+    "end": 650,
+    "sha256": "30579ed6c97471b976fb0363d062ef94036604064294012fb4df90ad01d163cb",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 439,
+    "start": 0,
+    "end": 650,
+    "sha256": "be5ff91b671f57fa31a68d018e65bf4c3be9496218575f619ddfa853c981436e",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 451,
+    "start": 0,
+    "end": 650,
+    "sha256": "cb94c5978b958441d2e96c7fe5223cd85e69ffe1d8d0e2f49cd2af5bc5cf077d",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 460,
+    "start": 0,
+    "end": 650,
+    "sha256": "c6ddd01f5724215dee3d0ae6976ca22cff612f14bd14b5bd792735289cdf65bc",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 471,
+    "start": 0,
+    "end": 650,
+    "sha256": "5e08551d85ff7591e999107e876cfb14781b364b3b7e32b3e81de488eebef363",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 482,
+    "start": 0,
+    "end": 650,
+    "sha256": "72deae5cf8098a795d32e5a877e3c6439bf0e255cfd802c6a3d5509706c03e54",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 493,
+    "start": 0,
+    "end": 650,
+    "sha256": "964d71f267f624795338acff47f4685c859d06bde47cd0cf85d362d5b4e52d6b",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 508,
+    "start": 0,
+    "end": 650,
+    "sha256": "f01efec4d3e4a144ea7c49e9399d9497f01b505c2ae01eef6c5cbd38981ec9d0",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 519,
+    "start": 0,
+    "end": 650,
+    "sha256": "81dfc8fbb8ab9645fa9a7e776b6e02dd2bfa75ad649ce9cf53a89e0c860b13a6",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 531,
+    "start": 0,
+    "end": 650,
+    "sha256": "64d01eda6d5e8140b5c25832aa7a7ddb26678665a1ac75ec6c80b50300517283",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 542,
+    "start": 0,
+    "end": 650,
+    "sha256": "65341a55868e7dc201fe680379fb87c6a6de4017cf82a9eb859f6dab49391dee",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 558,
+    "start": 0,
+    "end": 650,
+    "sha256": "fe31342e6e3a57a48c633b58fb752e494bcc5fd2c1a2fa579231ab0648613aee",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 573,
+    "start": 0,
+    "end": 650,
+    "sha256": "70d15ec2b366f4d547ef9af3ee178061ba1fcf08053311d7fccbf0a0e723b1dd",
+    "purpose": "verify all chapter authors and actual opening topic"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 366,
+    "start": 0,
+    "end": 2743,
+    "sha256": "781e279bac7a0d2d0990d93ceeab35b5f69c9250794f43ecb14aba310416693d",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 367,
+    "start": 0,
+    "end": 3047,
+    "sha256": "7d0ee5efedf258a4b09e08ff3f78ecd390660a6443e202e30fbf00dd6a0d6296",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 368,
+    "start": 0,
+    "end": 2887,
+    "sha256": "75ce870d39c977b90de593c9be27568da43b32be6bbd46bc78a16418785c1b90",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 155,
+    "start": 0,
+    "end": 1866,
+    "sha256": "b03fad517ce241d3b2df52c30b0b0aa5abdcc7ef5f0d180dd960ef78cd33ed61",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 166,
+    "start": 0,
+    "end": 2979,
+    "sha256": "765474804432d89dbf07a3a46aa81086bbdb152f0f52af610246664d90fda0b1",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 79,
+    "start": 0,
+    "end": 5121,
+    "sha256": "200b9837930f87aca19b00e4b5d751ebaafd3273de0a89bfbabea36ffbb9f209",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 83,
+    "start": 0,
+    "end": 6095,
+    "sha256": "9bd6d08175336706442a4b551b64de2d8200830387ba01318129b1d9eaadfb4d",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 95,
+    "start": 0,
+    "end": 7201,
+    "sha256": "1a6812d1ef3bc21fd71830e1b97f94cb3098939f13808942e4c5e6ef9ecc9639",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 108,
+    "start": 0,
+    "end": 6462,
+    "sha256": "2503292e5b7c3089ff840b3a48d91dea64520ac83807ea07b79f1ca0de00a296",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 156,
+    "start": 0,
+    "end": 2763,
+    "sha256": "8a9c564fdf2c82e984f21b125c88f68d65721e8c0b8eb1d7ed83aa0b2fe881da",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "dialogic",
+    "pdf_page": 167,
+    "start": 0,
+    "end": 3049,
+    "sha256": "f03c71a94290cec80389266c67a10582928ff8ed5790d28d467285347070cf8f",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 175,
+    "start": 0,
+    "end": 7215,
+    "sha256": "72116b78d4693873861f3b2f2a94691400ffae3900c2b0f1b8ea0d6d6c270cd2",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 180,
+    "start": 0,
+    "end": 2828,
+    "sha256": "524d0ed4db938462c2bfb99aa421f7daf4e7b99bf400b663a863fc6d6aeb9620",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 193,
+    "start": 0,
+    "end": 2661,
+    "sha256": "47d72d7b6178a353754080eaf8a06da8f7db30bb058489465015f95a60a8977b",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 216,
+    "start": 0,
+    "end": 6002,
+    "sha256": "7634b646dd1865922e59a4706bfcbc246a97bef9fe52f3048f867e52245e9cda",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 221,
+    "start": 0,
+    "end": 4494,
+    "sha256": "9a5ec76705a7f973bc7b4d60d5c2a3621dd6232b1e7bf209e0b08317079a0548",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 234,
+    "start": 0,
+    "end": 6484,
+    "sha256": "cfbf33a012e384b237566f895ee389e5d73a6f2867dfd29daf6641d571662d6d",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 243,
+    "start": 0,
+    "end": 6357,
+    "sha256": "4166a61e65d3afd74f11b8e1937fac5bf4e5a6780c777a6209295f50c3a928f8",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 259,
+    "start": 0,
+    "end": 7190,
+    "sha256": "f1158328fde8e81cd2cd5cac5c1c5d9ba981a6c2244d5b029dfa05e6d9d40b37",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 264,
+    "start": 0,
+    "end": 6351,
+    "sha256": "1dc3962e627df48114d55f697ef3751bec12555bd7475f0ac97c72450b129537",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 285,
+    "start": 0,
+    "end": 7393,
+    "sha256": "12b987037bbf25ed430dd5fb5b0e2167933873643860806da573ec3f71c8c097",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 290,
+    "start": 0,
+    "end": 6623,
+    "sha256": "7fca262f22c3712131244695ef788f24c8d50dc9dd5f65e3f4488d4230e2e689",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 360,
+    "start": 0,
+    "end": 4560,
+    "sha256": "cc018cb89be4023eeaa47a066fb7c9afe2496df089b0b5a432677f92ca504e67",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 383,
+    "start": 0,
+    "end": 3981,
+    "sha256": "54b6067463e42ab42817d1387a0c5070ce77f20f4072e9b9089cc97413ea226d",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 405,
+    "start": 0,
+    "end": 6387,
+    "sha256": "c6fc644168fa4d4aa68a4cd4792c88d10d802db5d98091bf857251ba78a68f29",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 410,
+    "start": 0,
+    "end": 5621,
+    "sha256": "f39777cebf45f26733d5c9229ef3df785d556d980a1bcf71930b492444c41c44",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 418,
+    "start": 0,
+    "end": 8032,
+    "sha256": "8733ffad2e650d3d4c3f0690293305f217e869aea029d11a5d3423726792d29b",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 428,
+    "start": 0,
+    "end": 8861,
+    "sha256": "1c3ab0ae554b6bc0406febeb1d96af60b9ec1ef23e537f106f386e011a5ee0a4",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 444,
+    "start": 0,
+    "end": 6421,
+    "sha256": "c61dd461f07a5e2a5e455988d331a7cfb953f64e2fc07b2fb37a2ec601fa42ec",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 451,
+    "start": 0,
+    "end": 4695,
+    "sha256": "2c5eada3fadfbc35a8fbd70d2b9b36ae08072d39816f369bed97bde6cc88f412",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 531,
+    "start": 0,
+    "end": 4482,
+    "sha256": "f74dd0dce6e49fcaea5f6230c57a24db53e8c6cf7672fc562e17c08b6ff62627",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 542,
+    "start": 0,
+    "end": 5001,
+    "sha256": "58ac7b5ddb11642ebf95c13bb3c0d3bdbb68ff0821156e7b192da9c525e1ddb1",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 583,
+    "start": 0,
+    "end": 6225,
+    "sha256": "1702015484ee05fee807f0b49080d6ac926db57edae81993bab695f3b696741d",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 24,
+    "start": 0,
+    "end": 5199,
+    "sha256": "f36e3ca66ded14a0db3c05afb680334393ea23053ff00305cc12717247d11faf",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 47,
+    "start": 0,
+    "end": 7231,
+    "sha256": "33e6d5a5edd0990f7e6cff86bad1ab98e4af4ec88c11c24fb518464a350fd4e5",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 63,
+    "start": 0,
+    "end": 6258,
+    "sha256": "b04efbc4acc0634eab019cf730018ec681339bbbbf692daf8bfb805185e670cc",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 122,
+    "start": 0,
+    "end": 6590,
+    "sha256": "cd21b1d9e1a0d40ec6f6ed9cbb93ced425f04a92b2b34434a82f57fb590179b7",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 566,
+    "start": 0,
+    "end": 7291,
+    "sha256": "5b1ffc97900be6e9dfb39b1097e8b1a731ef828c6284422a1901b4733c8f80d4",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 179,
+    "start": 0,
+    "end": 1400,
+    "sha256": "c85274e554c8bce87e36cf3e5e8780b628ea7fb29042ede9dc9b1b0984d679b3",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 192,
+    "start": 0,
+    "end": 400,
+    "sha256": "0313858c701f78bee8c22dd153437e0841bc23408a7273d54244bf087d388019",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 206,
+    "start": 0,
+    "end": 500,
+    "sha256": "1daf1c6f075b760312f7b8bfe52fac9c92db12c7b3456522d440a3457aac8cfc",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 220,
+    "start": 0,
+    "end": 400,
+    "sha256": "09071f2cb15c31489b76268c0cd36f7e33d1b55433591a81d82a391a85887393",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 233,
+    "start": 0,
+    "end": 400,
+    "sha256": "85af0f868b94a2da1f75ecc1de13d122dfcadbdab75d09879f6d405db68b5cb8",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 242,
+    "start": 0,
+    "end": 400,
+    "sha256": "81d6d3a0075f4772bf30a3b8d65f73e0306862d4567cc3469feeabb015c1dcfb",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 86,
+    "start": 0,
+    "end": 7500,
+    "sha256": "b913d6b8db213896c5e489f977abad00f1a231fcb9c1f677100327eb74314ce5",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 25,
+    "start": 0,
+    "end": 83,
+    "sha256": "c5f55bec7bcb50245fee2f8bb5f17026b5b0b45925b9c2f1ac9b847f56a5f76b",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 87,
+    "start": 0,
+    "end": 2285,
+    "sha256": "dbfda6e1e91c2dfb3d32c5383f7b33d7d40f2ef6062a310f208780eb04afb9f9",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 248,
+    "start": 0,
+    "end": 1394,
+    "sha256": "1bc1ea4f8597ced467f09d1bd5dd1b826ddfcb8cb5501d194b9d5b87b82c4ca8",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "complex",
+    "pdf_page": 338,
+    "start": 0,
+    "end": 2730,
+    "sha256": "1e662b664a2d2ea78c7e133bc940f7f3a30f636184511f62e854ae02ee8a0181",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 264,
+    "start": 2296,
+    "end": 4123,
+    "query": "essential processing refers",
+    "sha256": "295ad40387dbbe2c8e15ad7cd03bd03e03574c38fe380d10c98b2f7dbdccce63",
+    "purpose": "direct English claim verification, bounded context"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 105,
+    "start": 2946,
+    "end": 4787,
+    "query": "descriptive.*depictive",
+    "sha256": "f164edd0eee60a77d6ab00eec4fecf381b2fc9a7a4d13bad76839fe3fcdc5391",
+    "purpose": "direct English claim verification, bounded context"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 106,
+    "start": 4361,
+    "end": 6186,
+    "query": "descriptive.*depictive",
+    "sha256": "19922a13098f0689dacd6c0f1e84d195b2f6ab62d044c0c609024db8fe3551de",
+    "purpose": "direct English claim verification, bounded context"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 26,
+    "start": 0,
+    "end": 7374,
+    "sha256": "760e4f1a8bebb015595ae638f3fc1d0eea5157cd12763ba69078fdc015b0f34f",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 87,
+    "start": 0,
+    "end": 6673,
+    "sha256": "142a5a2d464568db84b27420bd5058f262527ddc0c24e46865b17bffb9110739",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 252,
+    "start": 0,
+    "end": 3600,
+    "sha256": "8ebaa07133dcc7dbe05b07c62e296e72d641ae3e95f2f5180715f2737b180fa2",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 402,
+    "start": 0,
+    "end": 3200,
+    "sha256": "b9175df14d756e9661ce54c0e211715be01c2ee7138411a6efeed5e56e437db1",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 14,
+    "start": 1825,
+    "end": 3200,
+    "query": "DeFT:",
+    "sha256": "026eaeeda3f113e4679befb81a16c7a306e2db10835639b17e0902f36ed18bb1",
+    "purpose": "direct English claim verification, bounded context"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 181,
+    "start": 0,
+    "end": 1490,
+    "query": "DeFT:",
+    "sha256": "66593cae02fe613b34f8d94c7b9aaa07d66227da5792d0811597f7223079646e",
+    "purpose": "direct English claim verification, bounded context"
+  },
+  {
+    "source": "learning",
+    "pdf_page": 113,
+    "start": 0,
+    "end": 1827,
+    "sha256": "88c62e922ccc47a25f080bfa4acc482abc8b488f18cd2b9c53147ffa5d2f8536",
+    "purpose": "direct English claim-by-claim verification"
+  },
+  {
+    "source": "multimedia",
+    "pdf_page": 181,
+    "start": 0,
+    "end": 5400,
+    "sha256": "c217c1e27205d5565336c643e5448ee6d288b40f5c600a6f48477875d7830aec",
+    "purpose": "direct English claim-by-claim verification"
+  }
+]

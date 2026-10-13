@@ -1,4 +1,6 @@
-# English revision and publication
+# English revision and publication — historical record
+
+**Superseded for source fidelity:** this release rewrote the earlier Chinese synthesis in English. It preserved source locators but did not individually recheck every claim against the English books. The later [original-English audit](original-english-audit.md) supplies that check for the current five-book claims and records corrections.
 
 The user's subsequent request authorizes this repair and push to the named GitHub repository, superseding the initial no-publication request. SKILL.md and all seven reference files are now English. The response-language rule follows the user's language or explicit preference. These are source-grounded English syntheses, not purported verbatim passages recovered from the books.
 

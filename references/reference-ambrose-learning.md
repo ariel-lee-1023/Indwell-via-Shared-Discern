@@ -23,9 +23,12 @@ Actions are **unvalidated AI adaptations** of the book's strategies. Main locati
 
 ## Decision Rules & Judgment
 
+**Attribution boundary:** source concepts and reported findings are paraphrased, not quotations. Recommendations addressed to this AI skill, hypothetical learner signals, accessibility safeguards, and delivery choices are proposed designs unless explicitly identified as a book method or case. They are not independently validated effects.
+
+
 ### Prior knowledge and organization
 
-Available but inactive knowledge calls for different support than missing background. A learner who knows “permission” but treats it as a guarantee of factual accuracy needs its object and scope distinguished; more permission terminology may reinforce the wrong link. A counterexample alone may not change an everyday misconception if it is dismissed as exceptional. Expose the explanatory difference and observe whether the earlier relationship persists in later situations.
+Available but inactive knowledge calls for different support than missing background. A learner who knows “permission” but treats it as a guarantee of factual accuracy needs its object and scope distinguished; more permission terminology may reinforce the wrong link. The authors distinguish isolated inaccuracies, which can respond to explicit refutation, from misconceptions embedded in a larger everyday model, which are harder to change (printed pp24–25/PDF50–51). A counterexample alone may not change such an embedded misconception if it is dismissed as exceptional. Expose the explanatory difference and observe whether the earlier relationship persists in later situations.
 
 More complex organization is not always better. Chapter 2 uses material such as kinship relations to show that knowledge can be connected differently for different tasks. Expert organization is often richer, organized by deeper features, and matched to use. Show a useful organization without assuming the learner already possesses the teacher's framework. Locations: p47/PDF73 and p65/PDF91.
 
@@ -35,7 +38,7 @@ More complex organization is not always better. Chapter 2 uses material such as 
 
 Chapter 3 relates motivation to goals, value, and expectancy; learners may have multiple goals that differ from the teacher's. Appropriate choice can support control, while clear criteria and feasible support may strengthen expectancy of success (p70–71, p89). More freedom is not automatically better; choice costs can be considered alongside the handbook's learner-control research.
 
-Chapter 6 treats intellectual, social, and emotional development together with course climate. Its continuum from explicitly marginalizing through implicitly marginalizing and implicitly centralizing to explicitly centralizing environments directs attention to climate, not diagnosis of a person or group from sparse chat data. An AI adaptation is to address disagreement seriously and avoid humiliation or unsupported diagnosis; this does not establish classroom belonging or developmental effects. Locations: p172 and p187.
+Chapter 6 treats intellectual, social, and emotional development together with course climate. The four-category model is attributed to DeSurra and Church (1994), whose study concerned lesbian, gay, bisexual, and transgender students; the authors extend its implications to other groups (printed pp171–172/PDF197–198). Its continuum from explicitly marginalizing through implicitly marginalizing and implicitly centralizing to explicitly centralizing environments directs attention to climate, not diagnosis of a person or group from sparse chat data. An AI adaptation is to address disagreement seriously and avoid humiliation or unsupported diagnosis; this does not establish classroom belonging or developmental effects. Locations: p172 and p187.
 
 ### Mastery is more than one component
 
@@ -50,7 +53,7 @@ Chapter 4 discusses conditional application at p107 and the need to uncover expe
 
 ## Worked Example
 
-Chapter 5 emphasizes clear goals, appropriate challenge, sufficient practice quantity and frequency, and feedback that relates performance to goals and improvement. Provide information when it can be used; immediate and delayed feedback have no context-free ranking. Too many details may be unusable for novices. Prioritize consequential issues and provide a revision opportunity (p141–142, p152).
+Chapter 5 emphasizes clear goals, appropriate challenge, sufficient practice quantity and frequency, and feedback that relates performance to goals and improvement. The authors generally favor earlier, more frequent feedback, while explicitly rejecting one ideal timing rule for every situation (p142/PDF168). Provide information while the learner can still use it; the suitable delay and frequency depend on the task and learner. Too many details may be unusable for novices. Prioritize consequential issues and provide a revision opportunity (p141–142, p152).
 
 **Book dilemma:** different writing assignments without sustained practice of the same skill may not improve performance merely because final drafts receive extensive comments. The case distinguishes receiving feedback from using it in practice, not proof that all cross-genre writing instruction fails. See Chapter 5's opening dilemma and feedback discussion.
 
